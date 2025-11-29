@@ -1,0 +1,4194 @@
+[
+  { 
+    "course_code": "N279P",
+    "course_name": "Capstone Preceptorship",
+    "textbooks": "There are no required resources for this course! Students are expected to use textbooks from previous courses including lab and drug references, journal articles, and other references as appropriate.",
+    "learning_objectives": [
+      "Provide care for multiple clients and their families through direct care and delegation of care to other members of the health care team.",
+      "Prioritize and carry out nursing aspects of multidisciplinary health plans that reflect legal and ethical standards of care and practice.",
+      "Assist in making assignments and supervising nursing care in the preceptorship setting.",
+      "Demonstrate using critical thinking as a basis for decision-making in clinical practice.",
+      "Evaluate leadership and management strategies in the delivery and evaluation of care provided by nurses and multidisciplinary health care providers.",
+      "Apply systems thinking appropriate to goal attainment.",
+      "Collaborate with clients, families, aggregates, and other health care providers, as appropriate to the preceptor setting, for the planning and delivery of care.",
+      "Synthesize and apply all practicum objectives evidenced by providing complete nursing care to a group of patients as it applies to the specific care area you are in."
+    ],
+    "learning_outcomes": [
+      "Provide care for multiple clients and their families through direct care and delegation of care to other members of the health care team.",
+      "Prioritize and carry out nursing aspects of multidisciplinary health plans that reflect legal and ethical standards of care and practice.",
+      "Assist in making assignments and supervising nursing care in the preceptorship setting.",
+      "Demonstrate using critical thinking as a basis for decision-making in clinical practice.",
+      "Evaluate leadership and management strategies in the delivery and evaluation of care provided by nurses and multidisciplinary health care providers.",
+      "Apply systems thinking appropriate to goal attainment.",
+      "Collaborate with clients, families, aggregates, and other health care providers, as appropriate to the preceptor setting, for the planning and delivery of care.",
+      "Synthesize and apply all practicum objectives evidenced by providing complete nursing care to a group of patients as it applies to the specific care area you are in."
+    ],
+    "grading_information": {
+      "grading_scale": "pass/fail",
+      "requirements": [
+        "Satisfactory completion of a total of 120 hours of practicum hours.",
+        "No consistent marginal or dependent performance in any of the 5 evaluation areas as evaluated by preceptor and instructor.",
+        "No violation of the four CRITICAL SAFETY ELEMENTS as explained on the Clinical Time Log & Evaluation at any time during the Capstone experience.",
+        "Completion of all evaluations as assigned on Canvas.",
+        "Completion of additional assignments as noted in syllabus and on Canvas.",
+        "Submission of all required paperwork to faculty within 24-48 business hours of the last clinical day worked and no later than 2359 on Monday, Dec. 8, 2025."
+      ]
+    },
+    "instructor_information": [
+      {
+        "name": "Jenise Baker",
+        "credentials": "DNP, RN",
+        "office": "5.168",
+        "phone": "573-855-6058",
+        "email": "jenise.baker@austin.utexas.edu",
+        "office_hours": "M, W, & F by appt; Th 1015-1315",
+        "section": "63285"
+      },
+      {
+        "name": "Larissa Brungot",
+        "credentials": "DNP, RN, CNE",
+        "office": "5.102G",
+        "phone": "575-649-9554",
+        "email": "lalberson@nursing.utexas.edu",
+        "office_hours": "Th 1000-1300 & by appt",
+        "section": "63265"
+      },
+      {
+        "name": "Nancy Guillet",
+        "credentials": "DNP, MSN, MD, RN",
+        "office": "5.136",
+        "phone": "512-475-7481",
+        "email": "nguillet@mail.utexas.edu",
+        "office_hours": "TBA",
+        "section": "63275"
+      },
+      {
+        "name": "Amy Hernandez",
+        "office": "TBA",
+        "phone": "TBA",
+        "email": "TBA",
+        "office_hours": "TBA",
+        "section": "63270"
+      },
+      {
+        "name": "Jennifer Murray-Chavez",
+        "credentials": "MSN, RN",
+        "office": "5.190",
+        "phone": "512-232-4758",
+        "email": "jennifer.murraychavez@austin.utexas.edu",
+        "office_hours": "TBA",
+        "section": "63280"
+      }
+    ],
+    "schedule": {
+      "course_dates": "11/5/25 – 12/8/25",
+      "course_hours": {
+        "Kaplan Review": 18,
+        "Capstone Simulation": 18,
+        "Clinical Shifts": 84,
+        "Total": 120
+      }
+    },
+    "assessment_methods": [
+      "Leadership & Management Reflection",
+      "36-Hour Check-In",
+      "72-Hour Check-In",
+      "Final Evaluation",
+      "Capstone Reflection",
+      "Joint Faculty-Preceptor-Student Meetings"
+    ],
+    "policies": {
+      "attendance_policy": "Students are responsible for managing their own time and work for this course.",
+      "agency_policies_scope_of_practice": "Students are prohibited from conferring with preceptors and/or administrative staff at the clinical sites in an attempt to arrange their own Capstone placements, unless given explicit permission by UTSON Capstone faculty."
+    },
+    "any_other_relevant_fields": {
+      "course_description": "This clinical preceptorship course will include experiences like those students are likely to experience as newly employed BSN-prepared registered nurses. The Capstone Preceptorship is a 1:1 relationship between an experienced BSN-prepared nurse preceptor and the N279P student.",
+      "teaching_learning_strategies": "The majority of practicum hours will be spent providing hands-on nursing care 1:1 with a preceptor in your assigned healthcare facility. All students are also required to attend a 3-day Kaplan review at the UT School of Nursing."
+    },
+    "source_file": "N279P2025963285.pdf"
+  },
+  {
+    "course_code": "N310",
+    "course_name": "Communication in Health Care Settings",
+    "textbooks": "There is no required textbook for this class. All required readings will be available in the Modules section of Canvas.",
+    "learning_objectives": [
+      "Discuss several theories and models that explain the communication process in healthcare settings.",
+      "Identify aspects of the communication process.",
+      "Identify the differences between social and professional communication.",
+      "Compare communication patterns in various stages of health-professional interaction.",
+      "Apply principles of cultural humility to reflect patient centered communication in health care settings.",
+      "Identify communication techniques that promote effective interaction between health professionals and clients/patients.",
+      "Identify ways of facilitating communication in peer and team interactions.",
+      "Discuss aspects of organizational and group communication that differ from interpersonal communication as they occur in health care settings.",
+      "Apply the conflict resolution process.",
+      "Integrate appropriate research findings in the study of interpersonal communication in health care settings.",
+      "Demonstrate ethical and human rights principles in patient care and professional situations."
+    ],
+    "learning_outcomes": [
+      "Discuss several theories and models that explain the communication process in healthcare settings.",
+      "Identify aspects of the communication process.",
+      "Identify the differences between social and professional communication.",
+      "Compare communication patterns in various stages of health-professional interaction.",
+      "Apply principles of cultural humility to reflect patient centered communication in health care settings.",
+      "Identify communication techniques that promote effective interaction between health professionals and clients/patients.",
+      "Identify ways of facilitating communication in peer and team interactions.",
+      "Discuss aspects of organizational and group communication that differ from interpersonal communication as they occur in health care settings.",
+      "Apply the conflict resolution process.",
+      "Integrate appropriate research findings in the study of interpersonal communication in health care settings.",
+      "Demonstrate ethical and human rights principles in patient care and professional situations."
+    ],
+    "grading_information": {
+      "grading_scale": {
+        "A": "90 – 100%",
+        "B": "80 – 89.99%",
+        "C": "70 – 79.99%",
+        "D": "60 – 69.99%",
+        "F": "< 60%"
+      },
+      "finality": "All grades are final. No extra credit is offered."
+    },
+    "instructor_information": [
+      {
+        "name": "Carolyn Phillips",
+        "degree": "PhD, MSN, RN",
+        "office": "NUR 3.434",
+        "email": "carolyn.phillips@nursing.utexas.edu"
+      },
+      {
+        "name": "Yaolin Pei",
+        "degree": "PhD",
+        "office": "",
+        "email": ""
+      },
+      {
+        "name": "Nattasit Katchamat",
+        "role": "Teaching Assistant",
+        "degree": "PhD student",
+        "email": "nattasit.kat@utexas.edu"
+      }
+    ],
+    "schedule": [
+      {
+        "week": 1,
+        "dates": [
+          "August 26",
+          "August 28"
+        ],
+        "topics": [
+          "Course Orientation",
+          "The First Patient Encounter"
+        ]
+      },
+      {
+        "week": 2,
+        "dates": [
+          "September 2",
+          "September 4"
+        ],
+        "topics": [
+          "The Nurse as a Person",
+          "Patients as People"
+        ]
+      },
+      {
+        "week": 3,
+        "dates": [
+          "September 9",
+          "September 11"
+        ],
+        "topics": [
+          "Establishing a Therapeutic Relationship",
+          "Non-Verbal Communication/Exam 1 Review"
+        ]
+      },
+      {
+        "week": 4,
+        "dates": [
+          "September 16",
+          "September 18"
+        ],
+        "topics": [
+          "Cross-Cultural Communication",
+          "NA"
+        ]
+      },
+      {
+        "week": 5,
+        "dates": [
+          "September 23",
+          "September 25"
+        ],
+        "topics": [
+          "Basic Interviewing/Communication Skills",
+          "Serious Illness & End of Life Communication"
+        ]
+      },
+      {
+        "week": 6,
+        "dates": [
+          "September 30",
+          "October 2"
+        ],
+        "topics": [
+          "Basic Interviewing/Communication Skills",
+          "Patients in Pain"
+        ]
+      },
+      {
+        "week": 7,
+        "dates": [
+          "October 7",
+          "October 9"
+        ],
+        "topics": [
+          "Conduct In-Class Interview 1",
+          "Physical Impairments"
+        ]
+      },
+      {
+        "week": 8,
+        "dates": [
+          "October 14",
+          "October 16"
+        ],
+        "topics": [
+          "Children & Families",
+          "Sexual Health/Humor/Exam Review"
+        ]
+      },
+      {
+        "week": 9,
+        "dates": [
+          "October 21",
+          "October 23"
+        ],
+        "topics": [
+          "Anger, Anxiety, and Difficult Communication Styles",
+          "NA"
+        ]
+      },
+      {
+        "week": 10,
+        "dates": [
+          "October 28",
+          "October 30"
+        ],
+        "topics": [
+          "Improv to Reduce Health Disparities",
+          "Team Communication/Group Work"
+        ]
+      },
+      {
+        "week": 11,
+        "dates": [
+          "November 4",
+          "November 6"
+        ],
+        "topics": [
+          "Motivational Interviewing",
+          "Delegation & Assertive Communication/Group Work"
+        ]
+      },
+      {
+        "week": 12,
+        "dates": [
+          "November 11",
+          "November 13"
+        ],
+        "topics": [
+          "Conduct In-Class Interview 2",
+          "Conflict Resolution, Negotiation, and Collaboration"
+        ]
+      },
+      {
+        "week": 13,
+        "dates": [
+          "November 18",
+          "November 20"
+        ],
+        "topics": [
+          "Groups 1-6 Presentations",
+          "Care for the Caregiver/Exam 3 Review"
+        ]
+      },
+      {
+        "week": 14,
+        "dates": [
+          "November 25",
+          "November 27"
+        ],
+        "topics": [
+          "Fall Break",
+          "NA"
+        ]
+      },
+      {
+        "week": 15,
+        "dates": [
+          "December 2",
+          "December 4"
+        ],
+        "topics": [
+          "Groups 7-12 Presentations",
+          "NA"
+        ]
+      }
+    ],
+    "assessment_methods": {
+      "assignments": [
+        {
+          "name": "In-Class Interview #1 with Self & Peer Reflection",
+          "weight": "40%",
+          "details": [
+            "In-Class; Self & Peer Reflection (20%)",
+            "In-Class; Self-Reflection (20%)"
+          ]
+        },
+        {
+          "name": "Exam 1",
+          "weight": "10%"
+        },
+        {
+          "name": "Exam 2",
+          "weight": "10%"
+        },
+        {
+          "name": "Exam 3",
+          "weight": "10%"
+        },
+        {
+          "name": "Group Presentation",
+          "weight": "20%"
+        },
+        {
+          "name": "Attendance",
+          "weight": "10%"
+        }
+      ]
+    },
+    "policies": {
+      "attendance": "Attendance is required for the course. Students are allowed two missed classes without penalty; after that, 5 points will be deducted for each missed class.",
+      "exams": "In the event of exceptional circumstances that make it impossible for a student to be present for a scheduled exam, arrangements must be made with the professor in advance."
+    },
+    "any_other_relevant_fields": {
+      "office_hours": "Tuesdays from 12:00-2:00 pm (or by appointment)",
+      "class_days_hours": "Tuesdays & Thursdays 2-3:30 pm",
+      "room": {
+        "tuesdays": "Rm 1.112",
+        "thursdays": "Zoom"
+      }
+    },
+    "source_file": "N3102025962785.pdf"
+  },
+  {
+    "course_code": "N354",
+    "course_name": "Spanish for Healthcare Professionals",
+    "textbooks": [
+      {
+        "title": "Spanish, culture & health: An introduction for healthcare professionals",
+        "authors": [
+          "Guillet, N.",
+          "Echavarria, M."
+        ],
+        "edition": "5th",
+        "publisher": "University Co-op-Forty Acres Press",
+        "ISBN": "978-1-64950-081-6"
+      }
+    ],
+    "learning_objectives": [
+      "Students will feel confident in brief, basic conversation in Spanish using medical- and healthcare-related expressions and terminology.",
+      "Students will be able to articulate and respond to patient concerns.",
+      "Students will be able to respond to patient's requests regarding care and comfort.",
+      "Students will be able to conduct basic interviews (assessments) in Spanish, such as the registration interview, health history, physical exam, and the more detailed situations of women's health.",
+      "Students will understand cultural and social factors that influence the practitioner-patient communication with Latino people and immigrants to the U.S."
+    ],
+    "learning_outcomes": [
+      "Facilitate medical Spanish learning acquisition.",
+      "Provide learners with academic and out-of-the-classroom experiences that enhance the formative process of proficiency levels acquisition."
+    ],
+    "grading_information": {
+      "clock_hours": "45 clock hours for 3 credit hours, plus time for reading and assignments.",
+      "study_hours": "Students should plan on spending 9-12 hours per week on this course."
+    },
+    "instructor_information": [
+      {
+        "name": "Dr. Nancy Guillet",
+        "credentials": "DNP, MSN-PHN, RN, DM",
+        "role": "Course Facilitator",
+        "office_hours": "TBA",
+        "phone": "512-475-7481",
+        "email": "Please email through Canvas"
+      },
+      {
+        "name": "Prof. Mary Fassnacht",
+        "credentials": "APRN, CPNP-PC, RN, B.A.",
+        "role": "Assistant Instructor",
+        "office_hours": "TBA",
+        "phone": "512-232-4714",
+        "email": "Please email through Canvas"
+      }
+    ],
+    "schedule": [
+      {
+        "day": "Wednesdays",
+        "time": "4:30 PM - 7:30 PM",
+        "room": "NUR 1.106"
+      },
+      {
+        "day": "Thursdays",
+        "time": "4:00 PM - 7:00 PM",
+        "room": "NUR 1.116"
+      }
+    ],
+    "assessment_methods": [
+      "In-class group work",
+      "Online discussions",
+      "Student presentations",
+      "Short writing assignments",
+      "Experiential learning activities"
+    ],
+    "policies": {
+      "copyright": "The materials used in this class are copyright protected. Unauthorized use or copying may result in disciplinary actions.",
+      "sharing_of_materials": "No materials may be shared online or with anyone outside of the class without explicit, written permission.",
+      "generative_AI_use": "No use of generative AI tools permitted. All assignments should be fully prepared by the student."
+    },
+    "any_other_relevant_fields": {
+      "course_description": "Basic health care Spanish language skills and phrases related to assessment and nursing activities. This course focuses on the cultural values of Latino patients who seek health care in the United States.",
+      "prerequisite": "Nursing 310 preferred.",
+      "teaching_learning_methods": "Blended format with in-class and online participation for some assignments."
+    },
+    "source_file": "N3542025963005.pdf"
+  },
+  {
+    "course_code": "N325",
+    "course_name": "Adult Health Nursing I",
+    "textbooks": [
+      {
+        "title": "Medical Surgical Nursing",
+        "authors": [
+          "Lewis, S.L.",
+          "Dirksen, S.R.",
+          "Heitkemper, M.M.",
+          "Bucher, L.",
+          "Camera, I.M."
+        ],
+        "edition": "12th",
+        "publisher": "Elsevier Mosby",
+        "year": 2020
+      },
+      {
+        "title": "Kaplan Nursing",
+        "description": "A comprehensive program that will be used throughout the next two years to help prepare you for taking and passing your National Council Licensure Examination (NCLEX)."
+      }
+    ],
+    "learning_objectives": [
+      "Describe common human responses to health and illness in adults.",
+      "Discuss nursing actions appropriate to altered health responses.",
+      "Recognize therapeutic nursing actions in the delivery of healthcare to patients as individuals.",
+      "Propose nursing actions that promote the health of adults experiencing illness.",
+      "Summarize basic research findings that support nursing practice in the care of adults."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "grading_scheme": {
+        "A": "90–100",
+        "B": "80–89.99",
+        "C": "75–79.99",
+        "D": "60–74.99",
+        "F": "Below 60"
+      },
+      "passing_grade": "75 or above is required to progress in the undergraduate curriculum."
+    },
+    "instructor_information": {
+      "name": "Katie Ayers",
+      "credentials": "MS, RN",
+      "office": "NUR 5.172",
+      "email": "through Canvas mail",
+      "office_hours": "Self-schedule through Canvas Calendar"
+    },
+    "schedule": {
+      "days": [
+        "Thursdays",
+        "Fridays"
+      ],
+      "time": "10 a.m. – 11:30 a.m.",
+      "classroom": "NUR 1.108"
+    },
+    "assessment_methods": {
+      "worksheets_in_class_activities_syllabus_quiz": "9%",
+      "kaplan_quizzes": "8%",
+      "content_quizzes": "18%",
+      "cumulative_exams": "45%",
+      "final_exam": "20%",
+      "kaplan_benchmark_exam": "Credit/No Credit"
+    },
+    "policies": {
+      "attendance": "Attendance at every class is critical to your success. Students are expected to attend all scheduled class sessions, arrive on time, and remain for the duration of class.",
+      "late_work": "All in-class work and homework must be completed by the due date to receive full credit. Missed work that is not excused will be penalized 10% per day for up to three days.",
+      "missed_quizzes_exams": "If you need to arrange an alternate exam date, please contact your instructor as soon as possible."
+    },
+    "any_other_relevant_fields": {
+      "course_credits": "3 semester hours/3 lecture hours",
+      "course_description": "Discussion of the concepts necessary to promote and support the health of adults with biological problems including related physiological and psychological responses."
+    },
+    "source_file": "N3252025962855.pdf"
+  },
+  {
+    "course_code": "N277P",
+    "course_name": "Clinical Care Management Practicum",
+    "textbooks": "There are no required resources for this course! Students are expected to use textbooks from previous courses, research and other journal articles, and other references as needed.",
+    "learning_objectives": [
+      "Synthesize knowledge gained from coursework and clinical practice to promote safe and effective patient care using clinical judgement model.",
+      "Apply national safety and quality standards to all patient care and interactions.",
+      "Provide care as a collaborative member of an interprofessional healthcare team.",
+      "Demonstrate competence in organizing, managing, and delivering safe and effective person-centered care in an adult health setting.",
+      "Evaluate common healthcare practices and compare current research findings.",
+      "Develop individual professional identity of nursing through reflection, spirit of inquiry, and self-evaluation."
+    ],
+    "learning_outcomes": [
+      "Synthesize knowledge gained from coursework and clinical practice to promote safe and effective patient care using clinical judgement model.",
+      "Apply national safety and quality standards to all patient care and interactions.",
+      "Provide care as a collaborative member of an interprofessional healthcare team.",
+      "Demonstrate competence in organizing, managing, and delivering safe and effective person-centered care in an adult health setting.",
+      "Evaluate common healthcare practices and compare current research findings.",
+      "Develop individual professional identity of nursing through reflection, spirit of inquiry, and self-evaluation."
+    ],
+    "grading_information": {
+      "methods_of_evaluation": {
+        "Clinical Practice in Assigned Agency": "80%",
+        "Weekly Reflections": "10%",
+        "EBP Presentation": "10%"
+      },
+      "grading_scale": {
+        "90-100": "A",
+        "80-89.99": "B",
+        "75-79.99": "C",
+        "<75": "Not passing"
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "WH Harris",
+        "credentials": "DNP, FNP-BC, ENP",
+        "office": "NUR 4.152",
+        "phone": "(915)781-9885",
+        "email": "wh.harris@nursing.utexas.edu",
+        "office_hours": "Tue 3-4PM or by appt"
+      },
+      {
+        "name": "Jenise Baker",
+        "credentials": "DNP, RN",
+        "office": "NUR 5.168",
+        "phone": "573-855-6058",
+        "email": "jenise.baker@austin.utexas.edu",
+        "office_hours": "Mon, Wed, Fri by appt; Thur 1015 – 1315"
+      },
+      {
+        "name": "Amy Hernandez",
+        "credentials": "DNP, RN, CNE",
+        "office": "NUR 5.163",
+        "phone": "(512)743-4452",
+        "email": "amy.hernandez@austin.utexas.edu",
+        "office_hours": "Monday 3-4pm or by appt"
+      }
+    ],
+    "schedule": {
+      "total_hours": 82,
+      "duration": "10 weeks",
+      "breakdown": {
+        "Medication Exam": "2 hours",
+        "Weekly Clinical/Post-Clinical": "72 hours",
+        "Simulation": "8 hours"
+      }
+    },
+    "assessment_methods": [
+      "Clinical Practice in Assigned Agency",
+      "Weekly Reflections",
+      "EBP Presentation"
+    ],
+    "policies": {
+      "attendance": "Students are expected to attend all clinical experiences and to be on time.",
+      "punctuality": "Arriving late to clinical or post-conference will be reflected in the Professionalism element of the student’s evaluation.",
+      "late_work": "All assignments are to be submitted to the Canvas course site by midnight of the date due. A grade will be deducted 5-points for each day that an assignment is submitted past the due date, up to 3 days.",
+      "make_up_work": "All missed clinical hours must be made-up through alternative assignments."
+    },
+    "any_other_relevant_fields": {
+      "medication_math_exam": {
+        "requirement": "Each student must pass a medication calculation test with a grade of 90%.",
+        "attempts": "Students will have two chances to achieve a score of 90%."
+      },
+      "uniform_policy": "Students must wear the current burnt orange uniform and adhere to specific guidelines regarding professional appearance."
+    },
+    "source_file": "N277P2025963250.pdf"
+  },
+  {
+    "course_code": "N275",
+    "course_name": "Public Health Nursing",
+    "textbooks": [
+      {
+        "title": "Population-based public health clinical manual: The Henry Street model for nurses",
+        "authors": [
+          "Schoon, P. M.",
+          "Porta, C. M.",
+          "Schaffer, M. A."
+        ],
+        "edition": "Third",
+        "year": 2019,
+        "publisher": "Sigma Theta Tau International",
+        "ISBN": "9781945157776",
+        "access_info": "Available in print and/or electronic form. Free download from UT libraries."
+      },
+      {
+        "title": "Community/Public Health Nursing: Promoting the Health of Populations",
+        "authors": [
+          "Nies, M.",
+          "McEwen, M."
+        ],
+        "edition": "8th",
+        "year": 2024,
+        "publisher": "Elsevier",
+        "ISBN": "9780323795319",
+        "access_info": "Free e-book available."
+      }
+    ],
+    "learning_objectives": [
+      "Analyze determinants of health and causes of health disparities for individuals, families, groups, communities, and populations across all levels of the social-ecological model.",
+      "Examine theory and research in behavioral and social sciences, biostatistics, epidemiology, and environmental health as they relate to health promotion, health protection, and disease or injury prevention and risk reduction.",
+      "Explain core public health functions and essential public health services.",
+      "Describe public health nursing roles and interventions applicable to health promotion, disease or injury prevention, health protection, and risk reduction.",
+      "Analyze data and policies about public health issues that can lead to public health programs.",
+      "Propose solutions to reduce health disparities using critical social theory and social justice framework."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "total_percentage": 100,
+      "assignments": [
+        {
+          "name": "Class Participation",
+          "percentage": 20,
+          "due_date": "Weekly"
+        },
+        {
+          "name": "Check in quizzes",
+          "percentage": 20,
+          "due_dates": [
+            "9/18",
+            "10/16"
+          ]
+        },
+        {
+          "name": "Public Health in the News",
+          "percentage": 30,
+          "due_dates": [
+            "9/11",
+            "10/30"
+          ]
+        },
+        {
+          "name": "Legislative Testimony",
+          "percentage": 25,
+          "due_dates": [
+            "9/25",
+            "10/10"
+          ]
+        },
+        {
+          "name": "Kaplan Reflection Assignment",
+          "percentage": 5,
+          "due_date": "10/23"
+        }
+      ],
+      "grading_scale": {
+        "A": "90-100%",
+        "B": "80-89.99%",
+        "C": "70-79.99%",
+        "D": "60-69.99%",
+        "F": "0-59.99%"
+      }
+    },
+    "instructor_information": {
+      "name": "Karen Johnson",
+      "title": "PhD, RN, FSAHM, FAAN",
+      "email": "drkj@utexas.edu",
+      "phone": "512-232-4294",
+      "office_location": "NUR 3.436",
+      "office_hours": [
+        {
+          "day": "Monday",
+          "time": "12:15-2:15 pm"
+        },
+        {
+          "day": "Thursday",
+          "time": "12:30-1:30 pm"
+        }
+      ],
+      "preferred_contact_method": "UT email, Monday-Friday"
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "date": "8/28/25",
+        "format": "On Campus",
+        "topic": "Introduction to Public Health Nursing, Core Functions of Public Health"
+      },
+      {
+        "week": 2,
+        "date": "9/4/25",
+        "format": "Online (asynchronous)",
+        "topic": "Frameworks for Health Promotion, Community Assessment"
+      },
+      {
+        "week": 3,
+        "date": "9/11/25",
+        "format": "On Campus",
+        "topic": "PHN Interventions, Advocacy & Legislative Testimony"
+      },
+      {
+        "week": 4,
+        "date": "9/18/25",
+        "format": "On Campus",
+        "topic": "Epidemiology/EBPHN"
+      },
+      {
+        "week": 5,
+        "date": "9/25/25",
+        "format": "On Campus",
+        "topic": "Population health comparisons"
+      },
+      {
+        "week": 6,
+        "date": "10/2/25",
+        "format": "Online (asynchronous with live Zoom option)",
+        "topic": "Healthcare system, Economics of Healthcare"
+      },
+      {
+        "week": 7,
+        "date": "10/9/25",
+        "format": "Online (asynchronous)",
+        "topic": "Environmental Health, Disaster Preparedness"
+      },
+      {
+        "week": 8,
+        "date": "10/16/25",
+        "format": "On Campus",
+        "topic": "Communicating for Public Health"
+      },
+      {
+        "week": 9,
+        "date": "10/23/25",
+        "format": "Online (asynchronous)",
+        "topic": "Kaplan Focused Test and Reflection"
+      },
+      {
+        "week": 10,
+        "date": "10/30/25",
+        "format": "On Campus",
+        "topic": "Semester review and future applications"
+      }
+    ],
+    "assessment_methods": [
+      "Class Participation",
+      "Check in quizzes",
+      "Public Health in the News",
+      "Legislative Testimony",
+      "Kaplan Reflection Assignment"
+    ],
+    "policies": {
+      "submission_format": "Electronic submissions for assignments MUST be submitted in Word (not PDF or any other format) done through Canvas.",
+      "attendance": "Attendance will be taken randomly during online weeks and participation is required for class."
+    },
+    "any_other_relevant_fields": {
+      "course_format": "Hybrid",
+      "unique_course_id": "63195",
+      "credits": "2 credit hours",
+      "clock_hours": "3 hours of class per week over 10 weeks"
+    },
+    "source_file": "N2752025963195.pdf"
+  },
+  {
+    "course_code": "N 344P",
+    "course_name": "MONDAY PS PERINATAL NURSING CARE PRACTIC",
+    "textbooks": [],
+    "learning_objectives": [],
+    "learning_outcomes": [],
+    "grading_information": {
+      "grade_cutoff": {
+        "A": "90-100%",
+        "B": "80-89.99%",
+        "C": "75-79.99%",
+        "F": "<75%"
+      },
+      "minimum_grade_criteria": "Students must earn a 'C' (75%) or above to pass the clinical practicum course."
+    },
+    "instructor_information": [
+      {
+        "name": "Patricia Hamilton -Solum",
+        "email": "plh226@eid.utexas.edu",
+        "office_location": "4.170",
+        "office_hours": "TBA, hybrid and by appointment"
+      },
+      {
+        "name": "Heather Maltsberger",
+        "email": "",
+        "office_location": "4.172",
+        "office_hours": "Wednesdays 0930 -1130 and 1300 -1400, hybrid and by appointment"
+      },
+      {
+        "name": "Jennifer Williams",
+        "email": "",
+        "office_location": "5.146",
+        "office_hours": "TBA, hybrid and by appointment"
+      }
+    ],
+    "schedule": {
+      "instructional_mode": "Face-to-face",
+      "meeting_times": "Mon 02:00 PM - 10:00 PM",
+      "placement": "Second Semester, Junior Year",
+      "course_credit": "Three semester hours based on 9 hours/week for 16 weeks"
+    },
+    "assessment_methods": {
+      "assignments": [
+        {
+          "name": "Report Assignments (Patient Datasheets, Care Plans, NICU Reflection)",
+          "percent_of_total_grade": "25%"
+        },
+        {
+          "name": "General Assignments (Perinatal Clinical Videos Prep Outline, C-Section Nursing Care Quiz, Perinatal Loss Nursing Care, Perinatal Medication Competency)",
+          "percent_of_total_grade": "16%"
+        },
+        {
+          "name": "Midterm Clinical Evaluation",
+          "percent_of_total_grade": "15%"
+        },
+        {
+          "name": "Simulation Assignments (Attendance, Engagement, Preparation, Quiz)",
+          "percent_of_total_grade": "9%"
+        },
+        {
+          "name": "Final Clinical Evaluation",
+          "percent_of_total_grade": "35%"
+        }
+      ]
+    },
+    "policies": {
+      "late_work_policy": "Assignments turned in late will have 10 percent deducted per day past the due date beginning one minute past the due date/time. If an assignment is more than 2 days late, the grade will be 0 total points.",
+      "grace_policy": "Students can utilize a 1-day grace period once in the semester for submission of one assignment within 24 hours after the original due date/time without penalty.",
+      "attendance_policy": "Punctual attendance is mandatory on all Orientation / Skills / Simulation days in addition to hospital clinical days."
+    },
+    "any_other_relevant_fields": {
+      "prerequisites": "Successful completion of all J1 courses, and concurrent enrollment in, or completion of, N244.",
+      "academic_integrity": "Students who violate University rules on academic misconduct are subject to the student conduct process."
+    },
+    "source_file": "N344P2025962965.pdf"
+  },
+  {
+    "course_code": "N375P",
+    "course_name": "Public Health Practicum",
+    "textbooks": [
+      {
+        "title": "Population-based public health clinical manual: The Henry Street model for nurses",
+        "authors": [
+          "Garcia, C. M.",
+          "Schaffer, M. A.",
+          "Schoon, P. M."
+        ],
+        "edition": "Second",
+        "year": 2014,
+        "publisher": "Sigma Theta Tau International",
+        "ISBN": "9781938835346"
+      }
+    ],
+    "learning_objectives": [
+      "Holistically assess the health status of a group, community or population using data, public resources, and input from community partners.",
+      "Analyze health disparities and root causes in communities and populations using the domains of social determinants of health.",
+      "Plan and apply public health nursing interventions addressing health promotion, health protection, and disease or injury prevention and risk reduction.",
+      "Evaluate changes in aggregate or public health status to determine effectiveness of interventions.",
+      "Practice public health nursing with individuals, families, groups and communities that reflects ethical, legal, and professional standards of public health nursing."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "total_percentage": 100,
+      "grading_scale": {
+        "A": "90 - 100%",
+        "B": "80 - 89%",
+        "C": "70 - 79%",
+        "D": "60 - 69%",
+        "F": "0 - 59%"
+      },
+      "requirements": [
+        "Completion of clinical hours to meet course objectives.",
+        "‘Pass’ on Pass/Fail (P/F) clinical assignments."
+      ]
+    },
+    "instructor_information": [
+      {
+        "name": "Ana Todd, PhD, RN",
+        "role": "Course Facilitator",
+        "email": "atodd@mail.nur.utexas.edu",
+        "office_hours": "Mondays 1000-1200 (in-person); Thursdays 1300-1400 (Zoom); & by appointment"
+      },
+      {
+        "name": "Nicole Murry, PhD, RN",
+        "role": "Course Facilitator",
+        "email": "nicole.murry@austin.utexas.edu",
+        "office_hours": "Wednesdays 1530 – 1700"
+      },
+      {
+        "name": "Chris Abbyad",
+        "role": "Course Facilitator",
+        "email": "cabbyad@nursing.utexas.edu",
+        "office_hours": "Monday 1400-1600 in-person & zoom; by appointment"
+      },
+      {
+        "name": "Nancy Guillet, DNP, MSN-PH, RN; DM",
+        "role": "Course Facilitator",
+        "email": "nguillet@mail.nur.utexas.edu",
+        "office_hours": "Wednesday 1400-1600 & By appt. virtually"
+      },
+      {
+        "name": "Kathleen Sneed, MSN, RN, IN-BC",
+        "role": "Course Facilitator",
+        "email": "kathleen.sneed@austin.utexas.edu",
+        "office_hours": "Wednesday: 10am-12pm"
+      },
+      {
+        "name": "Jennifer Murray-Chavez, MSN, RN",
+        "role": "Course Facilitator",
+        "email": "jennifer.murraychavez@austin.utexas.edu",
+        "office_hours": "Wednesdays 8:30-11:30 and by appointment"
+      },
+      {
+        "name": "Amber Sherman, DNP, RN",
+        "role": "Course Facilitator",
+        "email": "asherman@nursing.utexas.edu",
+        "office_hours": "Wednesdays 10-11am and 1-3 pm, via Zoom by appointment"
+      }
+    ],
+    "schedule": {
+      "course_hours": "126 clinical hours",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "format": "In-person"
+    },
+    "assessment_methods": [
+      "Public health clinical activities",
+      "Clinical conference meetings",
+      "Attendance & participation in Monday/Tuesday clinical activities",
+      "Attendance & participation in Thursday clinical activities",
+      "Community agency project",
+      "Written assignments",
+      "Written Reflections (2)"
+    ],
+    "policies": {
+      "sharing_of_course_materials": "Prohibited without explicit, written permission of the instructor.",
+      "confidentiality_of_class_recordings": "Class recordings are reserved for students in this class for educational purposes and are protected under FERPA.",
+      "electronic_devices": "Inappropriate use of electronic devices is prohibited.",
+      "uniform_policy": "Professional street clothes required; specific clothing requirements will be informed by the instructor.",
+      "transportation_policy": "Students are not permitted to transport clients or family members of clients."
+    },
+    "any_other_relevant_fields": {
+      "course_description": "This practicum requires students to apply public health nursing concepts, theories, and processes used in health promotion, disease or injury prevention, health protection, and risk reduction with individuals, families, groups, communities, and populations."
+    },
+    "source_file": "N375P2025963225.pdf"
+  },
+  {
+    "course_code": "N356",
+    "course_name": "Mental Health Nursing Across the Lifespan",
+    "textbooks": [
+      {
+        "title": "Varcarolis' foundations of psychiatric mental health nursing: A clinical approach",
+        "edition": "9th",
+        "author": "Halter, M. J.",
+        "year": 2022,
+        "publisher": "Saunders",
+        "ISBN": "978-0-323-69707-1"
+      },
+      {
+        "title": "Manual of psychiatric nursing care planning",
+        "edition": "7th",
+        "author": "Varcarolis, E. M.",
+        "year": 2023,
+        "publisher": "Saunders",
+        "ISBN": "978-0-323-79305-6"
+      }
+    ],
+    "learning_objectives": [
+      "Identify the purpose, significance, and scope of the American Nurses' Association Standards of Psychiatric-Mental Health Nursing Practice.",
+      "Describe specific brain structure and function in terms of etiology and exacerbation of symptoms occurring with major psychiatric disorders.",
+      "Describe the predisposing factors, associated responses, nursing interventions, evaluation criteria and research regarding the nursing care of patients diagnosed with major mental disorders.",
+      "Describe the health promotion strategies specific to the seriously ill psychiatric population including relapse assessment and prevention strategies.",
+      "Provide evidence of knowledge of therapeutic communication/counseling strategies in interacting with patients with complex mental health problems.",
+      "Describe indications, actions and side effects of psychopharmacological interventions in the management of symptoms occurring with major psychiatric disorders.",
+      "Apply the nursing process in the care of diverse psychiatric populations.",
+      "Describe various strategies to maintain and promote personal mental health while delivering psychiatric care.",
+      "Apply developmental theory to the nursing care of the child, adolescent, adult, and elderly mentally ill.",
+      "Identify the various leadership roles and responsibilities of the baccalaureate nurse in psychiatric settings."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "grading_scale": {
+        "A": "90-100",
+        "B": "80-89.9",
+        "C": "75-79.9",
+        "D/F": "Below 75"
+      },
+      "passing_grade": "C (75%)",
+      "components": {
+        "Exam 1": "30%",
+        "Exam 2": "30%",
+        "Exam 3": "30%",
+        "Attendance and Participation": "10%"
+      },
+      "total_grade": "100%"
+    },
+    "instructor_information": {
+      "name": "Veronica García Walker",
+      "degree": "PhD, RN, CNE",
+      "office": "NUR 4.140",
+      "phone": "512-217-7996",
+      "email": "rwalker@mail.nur.utexas.edu",
+      "office_hours": "5:30 PM – 8:30 PM Wednesdays, and by appointment"
+    },
+    "schedule": {
+      "class_times": "Wednesdays 2:30 pm to 5:30 pm",
+      "room": "NUR 1.108"
+    },
+    "assessment_methods": [
+      "In-class examinations",
+      "Attendance and participation"
+    ],
+    "policies": {
+      "attendance": "Students are expected to attend all classes and test sessions.",
+      "sharing_of_materials": "No materials used in this class may be shared online or with anyone outside of the class without explicit, written permission.",
+      "class_recordings": "Class recordings are reserved only for students in this class for educational purposes and are protected under FERPA."
+    },
+    "any_other_relevant_fields": {
+      "mandatory_kaplan_subscription": {
+        "cost": {
+          "student": "$90",
+          "university": "$97.50"
+        },
+        "purpose": "Prepare for NCLEX"
+      },
+      "suggested_resources": "Other assigned readings and support documents will be posted in Canvas."
+    },
+    "source_file": "N3562025963055.pdf"
+  },
+  {
+    "course_code": "N320",
+    "course_name": "Introduction to Patient-Centered Nursing Care",
+    "textbooks": [
+      {
+        "title": "Professional Nursing: Concepts and Challenges",
+        "author": "Black, B.P.",
+        "edition": "10th",
+        "year": 2024,
+        "publisher": "Saunders",
+        "ISBN": "9780323827560"
+      }
+    ],
+    "learning_objectives": [
+      "Articulate the nursing role as both a scientific and caring profession.",
+      "Examine how history has changed the profession of nursing.",
+      "Investigate the current US Healthcare system and its impact on patient-centered care.",
+      "Examine nursing theories in the application of patient-centered care.",
+      "Articulate the nursing process as a framework for care.",
+      "Describe the aging process, age-related changes, and health issues impacting older adults.",
+      "Discuss selected pathophysiology, pharmacology, and patient care topics in clinical settings.",
+      "Reflect upon the importance of self-care as it relates to patient-centered care."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "passing_grade": 75,
+      "grade_scale": {
+        "A": "89.5 - 100",
+        "B": "79.5 - 89.4",
+        "C": "74.5 - 79.4",
+        "F": "74.4 or below"
+      }
+    },
+    "instructor_information": {
+      "name": "Carol Dwyer, DNP, APRN, FNP-BC",
+      "pronouns": "she/her/hers",
+      "office": "NUR 5.148",
+      "phone": "512-471-7948",
+      "email": "Canvas (preferred)",
+      "office_hours": "Thursdays 0900 - 1200 OR by appointment in person/via Zoom"
+    },
+    "schedule": {
+      "class_time": "Friday 12–3pm",
+      "location": "Room 1.108",
+      "asynchronous_modules": "per Course N320 Schedule"
+    },
+    "assessment_methods": [
+      {
+        "method": "Group Quizzes",
+        "weight": 15
+      },
+      {
+        "method": "Reflection Notebook",
+        "weight": 20
+      },
+      {
+        "method": "Expanding History Group Presentation",
+        "weight": 15
+      },
+      {
+        "method": "Participation, Activities & Worksheets",
+        "weight": 20
+      },
+      {
+        "method": "Interview with Aging Adults",
+        "weight": 20
+      },
+      {
+        "method": "Patient Care Simulation",
+        "weight": 10
+      }
+    ],
+    "policies": {
+      "late_policy": "Assignments submitted after the due date will be subject to a 10% per day for a maximum of three days. After four days, the assignment will receive a '0' and not be graded.",
+      "email_policy": "Faculty will return email messages within 24 hours on business days and 48 hours on weekends. Always include N320 in the title of your email.",
+      "content_warning": "Some readings and other content in this course may include topics that some students may find difficult and/or traumatizing."
+    },
+    "any_other_relevant_fields": {
+      "course_description": "This course examines the profession of nursing and introduces the concept of nursing process as a framework for patient-centered care. Special emphasis will be placed on topics that apply to the bio-psycho-social-spiritual needs of the aging adult.",
+      "course_evaluation": "Satisfactory performance on all assignments is necessary to receive a passing grade for this course."
+    },
+    "source_file": "N3202025962795.pdf"
+  },
+  {
+    "course_code": "N223",
+    "course_name": "Genetics in Healthcare",
+    "textbooks": [
+      {
+        "title": "Essentials of Genetic & Genomic Nursing: Competencies, Curricular Guidelines, & Outcome Indicators",
+        "link": "https://tinyurl.com/EssentialsOfGeneticNursing"
+      }
+    ],
+    "learning_objectives": [
+      "Discuss the emerging role of genetic science in the healthcare delivery system",
+      "Describe the role of RNs as patient educator, advocate, and counselor in prenatal, individual, and family genetic testing",
+      "Demonstrate the ability to elicit a minimum of three generation health history and construct a pedigree",
+      "Identify clients who may benefit from specific genetic information or services based on assessment data",
+      "Analyze the ethical, legal, psychological, and social implications of scientific advances in genetics",
+      "List appropriate resources for current, accurate information relevant to genetics for clients and/or health care professionals"
+    ],
+    "learning_outcomes": [
+      "The integration of genetic information into nursing practice, including ethical, legal, psychological, and social issues"
+    ],
+    "grading_information": {
+      "total_points": 100,
+      "grade_scale": {
+        "A": ">90",
+        "B": "79.5% - 89.49%",
+        "C": "75% - 79.49%",
+        "D": "60% - 74.49%",
+        "F": "<59.5"
+      },
+      "assignments": [
+        {
+          "name": "Pedigree Drawing",
+          "weight": "15%",
+          "type": "Individual"
+        },
+        {
+          "name": "Quiz 1",
+          "weight": "10%",
+          "type": "Individual (open note)"
+        },
+        {
+          "name": "Ethics Movie",
+          "weight": "5%",
+          "type": "Individual"
+        },
+        {
+          "name": "Survey 1",
+          "weight": "1%",
+          "type": "Individual"
+        },
+        {
+          "name": "Quiz 2",
+          "weight": "10%",
+          "type": "Individual (open note)"
+        },
+        {
+          "name": "Survey 2",
+          "weight": "1%",
+          "type": "Individual"
+        },
+        {
+          "name": "Rad Libs - DNA",
+          "weight": "1%",
+          "type": "Individual"
+        },
+        {
+          "name": "Rad Libs - DNA Conception to Death",
+          "weight": "1%",
+          "type": "Individual"
+        },
+        {
+          "name": "Practice Quizzes for Lectures",
+          "weight": "21%",
+          "type": "Individual"
+        },
+        {
+          "name": "Personal Letter of Reference",
+          "weight": "5%",
+          "type": "Individual"
+        },
+        {
+          "name": "Ethics Paper",
+          "weight": "21%",
+          "type": "Group"
+        },
+        {
+          "name": "Pedigree Assessment",
+          "weight": "9%",
+          "type": "Individual"
+        }
+      ],
+      "extra_credit": "Extra credit will only be applied after students have met the requirements for passing the course."
+    },
+    "instructor_information": {
+      "name": "Nico Osier, PhD, BSN, BS, RN",
+      "preferred_name": "Dr. Osier",
+      "email": "NicoOsier@utexas.edu",
+      "office_location": "School of Nursing 3.442",
+      "phone": "(512) 232-4755",
+      "office_hours": "Usually M 12-1:30 & Wed 1:30-3; please schedule 2+ hours prior"
+    },
+    "schedule": {
+      "days": "Thursdays",
+      "time": "1330 - 1530 hrs",
+      "room": "Nursing Building 1.112"
+    },
+    "assessment_methods": [
+      "Assignments",
+      "Quizzes",
+      "Projects"
+    ],
+    "policies": {
+      "attendance": "You are an adult - responsibility is key.",
+      "late_work": "Up to the professor's discretion - be proactive!",
+      "student_conduct": "This is a university level class and as such, you are responsible for learning the material taught in it.",
+      "wellness": "Your health is important! Take care of yourself and use available resources.",
+      "student_honor_code": "Cheating is a no-no. Academic dishonesty may lead to dismissal from the nursing program."
+    },
+    "any_other_relevant_fields": {
+      "class_website": "Course page on Canvas",
+      "teaching_and_learning_strategies": [
+        "Lectures (slide-by-slide narrations with captions)",
+        "Independent Study (Readings, Videos)",
+        "Group & Individual Assignments",
+        "Quizzes",
+        "Reflections",
+        "Pedigree",
+        "Ethics Paper",
+        "Creative Modes",
+        "Others to be determined"
+      ],
+      "course_resources": [
+        {
+          "name": "Genetic Alliance",
+          "link": "http://www.geneticalliance.org"
+        },
+        {
+          "name": "Gene Tests",
+          "link": "http://www.geneclinics.org/"
+        },
+        {
+          "name": "Genetics Home Reference",
+          "link": "http://ghr.nlm.nih.gov/"
+        },
+        {
+          "name": "Your Genes, Your Health",
+          "link": "http://www.ygyh.org"
+        },
+        {
+          "name": "NHGRI Talking Glossary of Genetic Terms",
+          "link": "https://www.genome.gov/glossary/"
+        },
+        {
+          "name": "Online Mendelian Inheritance in Man (OMIM)",
+          "link": "https://www.omim.org/"
+        },
+        {
+          "name": "National Cancer Institute",
+          "link": "https://www.cancer.gov/"
+        },
+        {
+          "name": "International Society of Nurses in Genetics",
+          "link": "http://www.isong.org/"
+        },
+        {
+          "name": "American College of Medical Genetics (ACMG)",
+          "link": "http://www.acmg.net/"
+        },
+        {
+          "name": "Howard Hughes Medical Institute (HHMI)",
+          "link": "www.hhmi.org/biointeractive"
+        },
+        {
+          "name": "Centers for Disease Control (CDC)",
+          "link": "http://www.cdc.gov/genomics/"
+        },
+        {
+          "name": "National Human Genome Research Institute (NHGRI)",
+          "link": "https://www.genome.gov/"
+        },
+        {
+          "name": "National Organization for Rare Disorders (NORD)",
+          "link": "https://rarediseases.org/"
+        },
+        {
+          "name": "Human Genome Project (HGP)",
+          "link": "http://web.ornl.gov/sci/techresources/HumanGenome/index.shtml"
+        },
+        {
+          "name": "Genetics Clinics in Texas",
+          "link": "https://www.tsgc.org/genetics-clinics-in-texas"
+        },
+        {
+          "name": "Texas Children’s Genetics Clinic",
+          "link": "https://www.texaschildrens.org/departments/genetics"
+        },
+        {
+          "name": "Healthcare Provider Genomics Education Resources",
+          "link": "https://www.genome.gov/For-Health-Professionals/Provider-Genomics-Education-Resources"
+        },
+        {
+          "name": "Genetic Support Foundation",
+          "link": "https://geneticsupportfoundation.org/provider-resources/"
+        }
+      ]
+    },
+    "source_file": "FALL 2025 Syllabus - N223 (2).pdf"
+  },
+  {
+    "course_code": "N266",
+    "course_name": "Nursing Care of Children and Their Families",
+    "textbooks": [
+      {
+        "title": "Wong’s Essentials of Pediatric Nursing",
+        "edition": "11th ed.",
+        "authors": [
+          "Hockenberry, M.",
+          "Wilson, D.",
+          "Rodgers, C."
+        ],
+        "publisher": "St. Louis, MO: Elsevier",
+        "publication_date": "2017",
+        "ISBN": "978-0-323-62419-0"
+      }
+    ],
+    "learning_objectives": [
+      "Identify the basic legal, ethical, political, and professional standards of nursing care of children and their families.",
+      "Distinguish selected family theories and structures as they impact on children's health and development.",
+      "Describe historical and cultural variations in child-rearing practices and ways in which such variations affect delivery of nursing care to children and their families.",
+      "Distinguish the reciprocal relationship between psychosocial developmental changes and responses to actual and potential health problems.",
+      "Distinguish the reciprocal relationship between physiological developmental changes and responses to actual and potential health problems.",
+      "Explain selected health promotion concepts in the health promotion of children.",
+      "Explain selected health deviations in children and their impact on families.",
+      "Explain the use of the nursing process in ambulatory and hospital-based care of children and their families.",
+      "Select and integrate appropriate research findings in the study of children and their families."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "passing_percentage": 75,
+      "grade_breaks": {
+        "A": "90-100%",
+        "B": "80-89.99%",
+        "C": "75-79.99%",
+        "Not_Passing": "<75%"
+      }
+    },
+    "instructor_information": {
+      "name": "Rachel Haungs",
+      "credentials": "DNP, RN, CPN",
+      "pronouns": "she/her",
+      "email": "rrh732@eid.utexas.edu",
+      "office_location": "NUR 5.122",
+      "office_phone": "512.471.7937",
+      "office_hours": "Thurs in-person 0800-0900 & 1100-1300 and by appointment",
+      "zoom_link": "https://utexas.zoom.us/j/88669635831"
+    },
+    "schedule": {
+      "instructional_mode": "Face-to-face",
+      "meeting_times": "Thu 09:00 AM - 11:00 AM",
+      "meeting_location": "NUR 1.112",
+      "unique_number": "63135"
+    },
+    "assessment_methods": {
+      "assignments": [
+        {
+          "name": "Weekly Quizzes",
+          "percent_of_total_grade": 40,
+          "details": "9 quizzes"
+        },
+        {
+          "name": "Weekly In-class learning activities",
+          "percent_of_total_grade": 30,
+          "details": "10 activities"
+        },
+        {
+          "name": "Asynchronous learning activities",
+          "percent_of_total_grade": 5,
+          "details": "1 activity"
+        },
+        {
+          "name": "Kaplan Exam & Reflection",
+          "percent_of_total_grade": 10
+        },
+        {
+          "name": "Final Benchmark Exam",
+          "percent_of_total_grade": 15
+        }
+      ]
+    },
+    "policies": {
+      "attendance": "Attendance is expected at all in-person class offerings. Class attendance is not counted or graded.",
+      "late_work": "Any assignment submitted after the due date will not be accepted and a score of zero will be recorded.",
+      "makeup_policy": "No makeups for quizzes. Missed exams without prior arrangements will result in a score of zero.",
+      "extra_credit": "Extra credit opportunities will be made available during the course."
+    },
+    "any_other_relevant_fields": {
+      "prerequisites": [
+        "Human Development and Family Sciences 313 and 113L or Psychology 304",
+        "Nursing 356; 356P or 256P; Pharmacy 338",
+        "Credit or registration in Nursing 355P and 255D or 455"
+      ]
+    },
+    "source_file": "N2662025963135.pdf"
+  },
+  {
+    "course_code": "N244",
+    "course_name": "Perinatal Nursing Care",
+    "textbooks": [
+      {
+        "title": "Maternal Newborn Nursing",
+        "authors": [
+          "Giles, A.",
+          "Prusinski, R.",
+          "Wallace, L."
+        ],
+        "year": 2024,
+        "publisher": "OpenStax",
+        "ISBN": "978-1-961584-43-3",
+        "availability": "Available for FREE in both online format and for digital download at: https://openstax.org/details/books/maternal-newborn-nursing"
+      },
+      {
+        "title": "A Black Mother Dying",
+        "author": "Pie, A.M.",
+        "year": 2018,
+        "ISBN": "9781725952911"
+      }
+    ],
+    "learning_objectives": [
+      "Describe physiological and psychosocial changes for birthing persons and newborns during each phase of the childbearing process.",
+      "Discuss relevant assessment data for birthing persons, neonates, and childbearing families.",
+      "Demonstrate clinical judgment in applying nursing interventions to promote health, prevent illness, and address problems encountered before, during and after childbirth.",
+      "Identify appropriate measures that support and maintain homeostasis of the neonate.",
+      "Examine sociocultural and technological trends that affect the healthcare of birthing persons and childbearing families during the perinatal period.",
+      "Critique current research and clinical practice standards in relation to care of birthing persons and childbearing families during the perinatal period.",
+      "Demonstrate clinical decision-making pertaining to ethical and legal issues that influence nursing care of birthing persons and childbearing families.",
+      "Discuss the effect of health inequities and systemic/institutional racism within the healthcare system on vulnerable persons and their families."
+    ],
+    "learning_outcomes": [
+      "Describe physiological and psychosocial changes for birthing persons and newborns during each phase of the childbearing process.",
+      "Discuss relevant assessment data for birthing persons, neonates, and childbearing families.",
+      "Demonstrate clinical judgment in applying nursing interventions to promote health, prevent illness, and address problems encountered before, during and after childbirth.",
+      "Identify appropriate measures that support and maintain homeostasis of the neonate.",
+      "Examine sociocultural and technological trends that affect the healthcare of birthing persons and childbearing families during the perinatal period.",
+      "Critique current research and clinical practice standards in relation to care of birthing persons and childbearing families during the perinatal period.",
+      "Demonstrate clinical decision-making pertaining to ethical and legal issues that influence nursing care of birthing persons and childbearing families.",
+      "Discuss the effect of health inequities and systemic/institutional racism within the healthcare system on vulnerable persons and their families."
+    ],
+    "grading_information": {
+      "quizzes": "35% of final course grade",
+      "in_class_application_activities": "35% of final course grade",
+      "reflection_journal": "10% of final course grade",
+      "practice_final_exam": "3% of final course grade",
+      "final_exam": "7% of final course grade",
+      "class_attendance_participation": "Engagement is required"
+    },
+    "instructor_information": {
+      "name": "Dr. Laura Murphy",
+      "pronouns": "She/Her/Hers",
+      "email": "Use Canvas to email or lemurphy@mail.nur.utexas.edu",
+      "phone": "512.232.4784",
+      "office": "NUR 2.410",
+      "office_hours": [
+        {
+          "day": "Wednesdays",
+          "time": "0800-0900"
+        },
+        {
+          "day": "Thursdays",
+          "time": "0800-1000"
+        },
+        {
+          "day": "by appointment"
+        }
+      ]
+    },
+    "schedule": {
+      "class_meets": "Thursdays 1000-1200, NUR 1.116",
+      "final_exam": "Monday, December 15th from 1030-1230 in room TBD"
+    },
+    "assessment_methods": [
+      "Quizzes",
+      "In Class Application Activities",
+      "A Black Mother Dying Reflection Journal",
+      "Practice Final Exam: Kaplan Maternity A NGN Focused Review Test",
+      "Final Exam: Kaplan Maternity B Integrated Test"
+    ],
+    "policies": {
+      "academic_integrity": "See Policy on Academic Integrity and UT School of Nursing Honor Code",
+      "disability_access": "Contact Disability & Access for accommodations",
+      "classroom_expectations": "Respect for others, active participation, and engagement are required."
+    },
+    "any_other_relevant_fields": {
+      "teaching_modality": "In-person course",
+      "statement_on_learning_success": "Your success in this class is important to me. We will all need to be adaptable because we all learn differently.",
+      "statement_on_flexibility": "If you experience any hardships, please communicate with me as soon as possible."
+    },
+    "source_file": "N2442025962935.pdf"
+  },
+  {
+    "course_code": "N325P",
+    "course_name": "Adult Health Nursing I (Practicum)",
+    "textbooks": [
+      {
+        "title": "Ackley and Ladwig’s Nursing Diagnosis Handbook",
+        "authors": [
+          "Flynn Makic, M.B.",
+          "Martinez-Kratz, M."
+        ],
+        "edition": "13th",
+        "publisher": "Mosby",
+        "year": 2022
+      },
+      {
+        "title": "Davis's Drug Guide for Nurses",
+        "authors": [
+          "Vallerand, A. H.",
+          "Sanoski, C."
+        ],
+        "edition": "19th",
+        "publisher": "F. A. Davis",
+        "year": 2025
+      },
+      {
+        "title": "Guide to Laboratory and Diagnostic Tests",
+        "edition": "3rd",
+        "publisher": "Cengage Learning"
+      },
+      {
+        "title": "Physical Examination and Health Assessment",
+        "authors": [
+          "Jarvis, C."
+        ],
+        "edition": "9th",
+        "publisher": "Saunders",
+        "year": 2025
+      },
+      {
+        "title": "Lewis’s Medical-Surgical Nursing: Assessment and Management of Clinical Problems",
+        "authors": [
+          "Harding, M.",
+          "Kwong, J.",
+          "Hagler, D.",
+          "Reinisch."
+        ],
+        "edition": "12th",
+        "publisher": "Mosby",
+        "year": 2023
+      },
+      {
+        "title": "Clinical Nursing Skills & Techniques",
+        "authors": [
+          "Perry, A. G.",
+          "Potter, P. A.",
+          "Ostendorf, W.",
+          "Laplante, N."
+        ],
+        "edition": "11th",
+        "publisher": "Elsevier",
+        "year": 2025
+      }
+    ],
+    "learning_objectives": [
+      "Apply selected nursing and non-nursing theories in the care of adults experiencing illness.",
+      "Apply national safety and quality standards to all nursing skills and care.",
+      "Demonstrate the professional standards of moral, ethical, and legal conduct in nursing practice.",
+      "Integrate strategies that promote organization in the delivery of care.",
+      "Incorporate evidence-based practice to provide person-centered care for adult patients.",
+      "Provide care as a collaborative member of an interprofessional healthcare team.",
+      "Apply clinical judgment when implementing individualized care for adults experiencing illness.",
+      "Demonstrate use of communication technologies and informatic processes to provide person-centered care."
+    ],
+    "learning_outcomes": [
+      "Apply selected nursing and non-nursing theories in the care of adults experiencing illness.",
+      "Apply national safety and quality standards to all nursing skills and care.",
+      "Demonstrate the professional standards of moral, ethical, and legal conduct in nursing practice.",
+      "Integrate strategies that promote organization in the delivery of care.",
+      "Incorporate evidence-based practice to provide person-centered care for adult patients.",
+      "Provide care as a collaborative member of an interprofessional healthcare team.",
+      "Apply clinical judgment when implementing individualized care for adults experiencing illness.",
+      "Demonstrate use of communication technologies and informatic processes to provide person-centered care."
+    ],
+    "grading_information": {
+      "passing_grade": 70,
+      "evaluation_criteria": {
+        "Safety": "Must be met throughout the clinical time and in all clinical settings.",
+        "Professionalism": "Must be met throughout the clinical time and in all clinical settings."
+      },
+      "course_requirements": [
+        {
+          "name": "Long-term Care Clinical Performance Evaluation",
+          "weight": 10
+        },
+        {
+          "name": "Acute Care Daily Clinical Performance Evaluation",
+          "weight": 40
+        },
+        {
+          "name": "Simulation Preparation and Participation",
+          "weight": 20
+        },
+        {
+          "name": "Nursing Process Reports",
+          "weight": 15
+        },
+        {
+          "name": "Clinical Assignments",
+          "weight": 5
+        },
+        {
+          "name": "Post-conference discussion and NCLEX Questions",
+          "weight": 5
+        },
+        {
+          "name": "Group clinical concept map work",
+          "weight": 5
+        }
+      ],
+      "letter_grades": {
+        "A": "90-100",
+        "B": "80-89",
+        "C": "70-79",
+        "D": "60-69",
+        "F": "<60"
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "Li-Chen Lin",
+        "title": "PhD, RN, CNRN",
+        "office": "NUR 5.144",
+        "email": "llin@mail.nur.utexas.edu",
+        "phone": {
+          "cell": "512-695-3522",
+          "office": "512-471-5069"
+        },
+        "office_hours": "Mondays 4-5pm; Tuesdays 4-5pm; Wednesdays 8-9am Zoom; or by appointment"
+      },
+      {
+        "name": "Esther Nwokocha",
+        "title": "MSN, RN",
+        "office": "NUR 4.168",
+        "email": "enwokocha@nursing.utexas.edu",
+        "phone": {
+          "office": "512-471-7943",
+          "cell": "512-792-6116"
+        },
+        "office_hours": "Thursdays 12:30 -3:30 pm via Zoom & by appointment"
+      },
+      {
+        "name": "Samantha Stong",
+        "title": "MSN, RN",
+        "office": "5.142",
+        "email": "samantha.stong@austin.utexas.edu",
+        "phone": {
+          "cell": "815-735-1401"
+        },
+        "office_hours": "Thursdays 1-4pm; or by appointment"
+      },
+      {
+        "name": "Stephanie Berman",
+        "title": "MSN, RN",
+        "office": "2.308",
+        "email": "drstephanie@utexas.edu",
+        "phone": {
+          "cell": "512-923-1045"
+        },
+        "office_hours": "Wednesdays 12-1 pm via Zoom; Wednesdays 1:30-2:30 and Fridays 9:30-10:30am in person"
+      }
+    ],
+    "schedule": {
+      "semester": "Fall 2025",
+      "credit_hours": 3,
+      "lab_hours_per_week": 8,
+      "placement": "First Semester, Junior Year",
+      "prerequisites": "Completion of 69 hours of Prerequisite coursework and credit for or concurrent registration in N325."
+    },
+    "assessment_methods": [
+      "Clinical Practicum",
+      "Clinical Conference",
+      "Evidence-Based Nursing Research Project",
+      "Written Clinical Assignments"
+    ],
+    "policies": {
+      "course_repeat_policy": "A student must earn a grade of at least 'C' in each nursing course. A student may repeat a nursing course only one time. No more than two nursing courses may be repeated.",
+      "participation_expectations": [
+        "Take ownership of learning, as observable via self-directed learning behavior.",
+        "Be active participants during clinical in-person or online and pre-post-conference times."
+      ]
+    },
+    "any_other_relevant_fields": {
+      "independent_inquiry_flag": "This course carries the Independent Inquiry flag.",
+      "communication": {
+        "canvas_site": "https://utexas.instructure.com/courses/1401878",
+        "email_instructions": "Please email your instructor through Canvas."
+      }
+    },
+    "source_file": "N325P2025962880.pdf"
+  },
+  {
+    "course_code": "N264",
+    "course_name": "Nursing Research",
+    "textbooks": [
+      {
+        "title": "Essentials of nursing research: Appraising evidence for nursing practice",
+        "authors": [
+          "D.F. Polit",
+          "C.T. Beck"
+        ],
+        "edition": "10th",
+        "year": 2021,
+        "publisher": "Lippincott Williams & Wilkins"
+      }
+    ],
+    "learning_objectives": [
+      "Explain the role of research in the development of nursing knowledge used in the health sciences.",
+      "Articulate the relationships among inquiry, theory, research, and practice.",
+      "Demonstrate an understanding of the basic components of research process.",
+      "Identify basic ethical and cultural considerations in research that involves human subjects.",
+      "Retrieve scholarly evidence from a variety of sources.",
+      "Appraise evidence to maintain a scientific basis for practice.",
+      "Discuss the effects of health disparities, systematic/systemic/institutional racism, and health inequities within health sciences research."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "scale": {
+        "A": "90 – 100",
+        "B": "80 – 89",
+        "C": "75 – 79",
+        "D": "65 – 74",
+        "F": "below 65"
+      },
+      "minimum_pass_grade": 75,
+      "grading_policy": "The School of Nursing does not assign + (plus) or – (minus) to the letter grade."
+    },
+    "instructor_information": {
+      "name": "Shaoqing Ge",
+      "degrees": [
+        "PhD",
+        "MPH",
+        "RN"
+      ],
+      "office": "NUR 3.444",
+      "phone": "512 475-7421",
+      "email": "Email through Canvas",
+      "pronouns": "she/her/hers",
+      "office_hours": "Fridays 14:00-15:00 or by appointment"
+    },
+    "schedule": {
+      "class_meeting_times": [
+        {
+          "unique_number": 63120,
+          "day": "Friday",
+          "time": "12-2"
+        },
+        {
+          "unique_number": 63125,
+          "day": "Thursday",
+          "time": "12-2"
+        }
+      ],
+      "classroom": "NUR 1.106",
+      "weeks": [
+        {
+          "week": 1,
+          "date": "Aug 28 or 29",
+          "topics": [
+            "Introduction to the course",
+            "Review of syllabus & course requirements",
+            "Introduction to nursing research & evidence-based Practice",
+            "Nursing research in the School of Nursing",
+            "Share your previous research experience"
+          ],
+          "assignments": [
+            "Read P & B — Chapter 1, Introducing nursing research for evidence-based practice"
+          ]
+        },
+        {
+          "week": 2,
+          "date": "Sept 4 or 5",
+          "topics": [
+            "Understanding nursing research",
+            "Steps in the research process",
+            "Research problems",
+            "Purpose/objectives",
+            "Questions & hypotheses",
+            "Introduction of APA"
+          ],
+          "assignments": [
+            "Read P & B Chapter 2",
+            "Read P & B Chapter 5",
+            "Due: quiz: intro",
+            "discussion forum: PICO research question practice"
+          ]
+        },
+        {
+          "week": 3,
+          "date": "Sept 11 or 12",
+          "topics": [
+            "Theory and critiquing research articles",
+            "Conceptual & Theoretical Contexts",
+            "Critiquing research articles"
+          ],
+          "assignments": [
+            "Read P & B Chapter 3",
+            "Read P & B Chapter 7",
+            "Due: Group formation",
+            "Quiz: understanding nursing research, theory, and appraisal"
+          ]
+        },
+        {
+          "week": 4,
+          "date": "Sept 18 or 19",
+          "topics": [
+            "Article Appraisal assignment session"
+          ],
+          "assignments": [
+            "Due: Quiz for article appraisal",
+            "Choosing and submit a group PICO"
+          ]
+        },
+        {
+          "week": 5,
+          "date": "Sept 25 or 26",
+          "topics": [
+            "Searching and reviewing the literature",
+            "Searching databases",
+            "Identifying legitimate literature sources",
+            "Integrative/systematic reviews"
+          ],
+          "assignments": [
+            "Read P & B - Chapter 6",
+            "Read P & B - Chapter 17",
+            "Due: Literature search"
+          ]
+        },
+        {
+          "week": 6,
+          "date": "Oct 2 or 3",
+          "topics": [
+            "Quantitative research",
+            "Types of designs",
+            "Designs & research evidence",
+            "Outcomes research",
+            "Intervention research",
+            "Sampling",
+            "Measurement"
+          ],
+          "assignments": [
+            "Read P & B — 8",
+            "Read P & B — 9",
+            "Due: Chapter 8 and 9 Quiz"
+          ]
+        },
+        {
+          "week": 7,
+          "date": "Oct 9 or 10",
+          "topics": [
+            "Data analysis & interpretation",
+            "Data variability",
+            "Descriptive statistics",
+            "Multivariate statistics"
+          ],
+          "assignments": [
+            "Read P & B — 13",
+            "Read P & B — 14",
+            "Due: Chapter 13 & 14 quiz"
+          ]
+        },
+        {
+          "week": 8,
+          "date": "Oct 16 or 17",
+          "topics": [
+            "Nursing ethics Case study"
+          ],
+          "assignments": [
+            "Due: Ethics Case Study"
+          ]
+        },
+        {
+          "week": 9,
+          "date": "Oct 23 or 24",
+          "topics": [
+            "Work session: PICO Literature review"
+          ],
+          "assignments": [
+            "Due: PICO, one submission per group"
+          ]
+        },
+        {
+          "week": 10,
+          "date": "Oct 30 or 31",
+          "topics": [
+            "Qualitative research",
+            "Types of designs",
+            "Interpretation",
+            "Application to practice"
+          ],
+          "assignments": [
+            "Read P & B — Chapter 10",
+            "Read P & B — Chapter 11",
+            "Due: Chapter 10 quiz"
+          ]
+        },
+        {
+          "week": 11,
+          "date": "Nov 6 or 7",
+          "topics": [
+            "Coding practice and PICO Presentation Creation"
+          ],
+          "assignments": [
+            "Due: Chapter 11 quiz",
+            "Qualitative coding assignment"
+          ]
+        },
+        {
+          "week": 12,
+          "date": "Nov 13 or 14",
+          "topics": [
+            "PICO Presentation Creation"
+          ]
+        },
+        {
+          "week": 13,
+          "date": "Nov 20 or 21",
+          "topics": [
+            "Group work session"
+          ],
+          "assignments": [
+            "Due: PICO video"
+          ]
+        },
+        {
+          "week": 14,
+          "date": "Fall break"
+        },
+        {
+          "week": 15,
+          "date": "Dec 4 or 5",
+          "topics": [
+            "Critique classmates’ PICO project videos",
+            "Round table"
+          ],
+          "assignments": [
+            "Due: Feedback on classmates’ PICO"
+          ]
+        }
+      ]
+    },
+    "assessment_methods": {
+      "quizzes_and_online_discussion_forum": "20%",
+      "research_methodology_assignments": "40%",
+      "group_project_showcase": "40%"
+    },
+    "policies": {
+      "attendance": "In-person class attendance is mandatory.",
+      "participation": "Students gain participation points when they are in attendance.",
+      "late_assignments": "No excuses for late assignments will be accepted unless prior approval for a late assignment is granted by the faculty."
+    },
+    "any_other_relevant_fields": {
+      "course_format": "hybrid",
+      "required_technology": [
+        "Microsoft Office software",
+        "Laptop Computer or Tablet for in-class activities and workshops"
+      ]
+    },
+    "source_file": "N2642025963125.pdf"
+  },
+  {
+    "course_code": "N224",
+    "course_name": "Health Assessment Skills",
+    "textbooks": [
+      {
+        "title": "Physical examination & health assessment",
+        "author": "Jarvis, C.",
+        "edition": "9th",
+        "year": 2024,
+        "publisher": "Saunders"
+      },
+      {
+        "title": "Laboratory manual for physical examination & health assessment",
+        "author": "Jarvis, C.",
+        "edition": "9th",
+        "year": 2024
+      }
+    ],
+    "learning_objectives": [
+      "Using clinical judgement, differentiate and provide a rationale for abnormal assessment findings.",
+      "Employ techniques to compile a nursing health history that accurately reflect the patient’s perspective of their own bio-psycho-social-spiritual state of wellness.",
+      "Demonstrate beginning level skills in health assessment using evidence-based tools and techniques.",
+      "Communicate assessment findings, both verbally and in writing, using correct medical terminology.",
+      "Demonstrate professional values of nursing and accountability behaviors consistent with the practice of professional nursing."
+    ],
+    "learning_outcomes": [
+      "Differentiate and provide rationale for abnormal assessment findings.",
+      "Compile a nursing health history reflecting the patient's perspective.",
+      "Demonstrate skills in health assessment.",
+      "Communicate findings using correct terminology.",
+      "Exhibit professional values and accountability."
+    ],
+    "grading_information": {
+      "passing_grade": 75,
+      "performance_exam_pass_grade": 85,
+      "grading_schema": {
+        "A": "89.5 – 100",
+        "B": "79.5 – 89.4",
+        "C": "74.5 – 79.4",
+        "Not_passing": "74.4 and below"
+      },
+      "grade_breakdown": {
+        "Exam I": 22,
+        "Exam II": 22,
+        "Weekly Quizzes": 16,
+        "Nursing Health History": 5,
+        "Performance Exam": 25,
+        "Lab Manual & Field work": 5,
+        "Professionalism, Attendance, Kaplan Quizzes": 5
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "Amy Holland",
+        "credentials": "MSN, RN, CNE",
+        "office": "NUR 5.163",
+        "phone": "512-913-0818",
+        "email": "aeholland@mail.utexas.edu",
+        "office_hours": "Thurs 9:00a-10:30a via Zoom, Fri 1:45p–1:15p at SoN"
+      },
+      {
+        "name": "Nico Osier",
+        "credentials": "PhD, BSN, BS, RN",
+        "office": "NUR 3.442",
+        "phone": "512-232-4755",
+        "email": "NicoOsier@utexas.edu",
+        "office_hours": "Mon 12:00p-1:30p via Zoom, Wed 1:30p-3:00p at SoN"
+      },
+      {
+        "name": "Jennifer G. Hensley",
+        "credentials": "EdD, CNM, WHNP-BC, FACNM",
+        "office": "NUR 4.143",
+        "phone": "720-971-1526",
+        "email": "jennifer.hensley@nursing.utexas.edu",
+        "office_hours": "Fri 10:30a-11:30a at SoN and Zoom by appointment"
+      },
+      {
+        "name": "Stephanie Berman",
+        "credentials": "MSN, RN, CALM",
+        "office": "NUR 2.308",
+        "phone": "512-923-1045",
+        "email": "DrStephanie@utexas.edu",
+        "office_hours": "Wed 12:00p-1:00p via Zoom, Wed 1:30p-2:30p & Fri 9:30a-10:30a at SoN"
+      }
+    ],
+    "schedule": [
+      {
+        "date": "8-29",
+        "week": 1,
+        "topics": [
+          "Syllabus, Course Objectives",
+          "Assessment Techniques",
+          "General Survey & Measurements"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapters 8, 9"
+        ],
+        "skills_practice": [
+          "Inspection, Palpation, Percussion & Auscultation",
+          "Describe general appearance, non-verbal body language, LOC, nutritional status, affect",
+          "Practice narrative documentation"
+        ]
+      },
+      {
+        "date": "9-5",
+        "week": 2,
+        "topics": [
+          "Skin Assessment",
+          "Eyes"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapters 13, 15",
+          "Lab Manual: Chapters 8, 9, 13 & 15"
+        ],
+        "skills_practice": [
+          "Skin Color, Lesions, Temp, Turgor, Edema",
+          "Pressure Ulcer Wound Assessment",
+          "Braden Scale Simulations",
+          "PERRL"
+        ]
+      },
+      {
+        "date": "9-12",
+        "week": 3,
+        "topics": [
+          "Vital Signs"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 10",
+          "Lab Manual: Chapter 10"
+        ],
+        "skills_practice": [
+          "T/P/R & B/P, Ortho B/P, Sp O2"
+        ]
+      },
+      {
+        "date": "9-19",
+        "week": 4,
+        "topics": [
+          "Mental Status",
+          "Neurologic Assessment"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 5, 24",
+          "Lab Manual: Chapter 5, 24"
+        ],
+        "skills_practice": [
+          "Appearance, behavior, LOC, cognitive function, thought process",
+          "Administer Mini Cog Exam",
+          "Glasgow Coma Score and Neuro Recheck"
+        ]
+      },
+      {
+        "date": "9-26",
+        "week": 5,
+        "topics": [
+          "Health History",
+          "Pain Assessment (various scales)",
+          "Substance Abuse (CIWA scale)",
+          "Motivational Interviewing"
+        ],
+        "required_readings": [
+          "CANVAS Motivational Interview article",
+          "CANVAS Opioid Crisis article",
+          "Jarvis Textbook: Chapters 4, 6, 11",
+          "Lab Manual: Chapters 4, 6, 11"
+        ],
+        "skills_practice": [
+          "Chief Concern and PQRST",
+          "Past Medical Hx",
+          "Discuss Motivational Interviewing",
+          "Medication Hx",
+          "Pain Scales"
+        ]
+      },
+      {
+        "date": "10-3",
+        "week": 6,
+        "topics": [
+          "Nursing Health History Fieldwork"
+        ],
+        "skills_practice": [
+          "Must be typed - No handwritten submission accepted"
+        ]
+      },
+      {
+        "date": "10-10",
+        "week": 7,
+        "topics": [
+          "Musculoskeletal Assessment",
+          "Kaplan Test Prep Orientation"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 23",
+          "Lab Manual: Chapters 23"
+        ],
+        "skills_practice": [
+          "Hendrich II Fall Risk Scale Simulations",
+          "Medical Hx regarding OA, RA, osteoporosis"
+        ]
+      },
+      {
+        "date": "10-17",
+        "week": 8,
+        "topics": [
+          "Exam 1"
+        ]
+      },
+      {
+        "date": "10-24",
+        "week": 9,
+        "topics": [
+          "Review Exam 1",
+          "Heart",
+          "Peripheral Vascular System"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 20, 21",
+          "Lab Manual: Chapters 20, 21"
+        ],
+        "skills_practice": [
+          "Heart sounds –SAM manikin, S1, S2+abnormal",
+          "Peripheral Pulses – Palpation and Doppler",
+          "Capillary Refill"
+        ]
+      },
+      {
+        "date": "10-31",
+        "week": 10,
+        "topics": [
+          "Lungs"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 19",
+          "Lab Manual: Chapter 19"
+        ],
+        "skills_practice": [
+          "Lung sounds – SAM manikin, vesicular+abnormal"
+        ]
+      },
+      {
+        "date": "11-7",
+        "week": 11,
+        "topics": [
+          "Nutrition (malnutrition clinical signs, lab values metabolic syndrome)",
+          "Abdomen"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 12, 22",
+          "Lab Manual: Chapter 12, 22"
+        ],
+        "skills_practice": [
+          "Abdomen Contour, Sounds, Palpation",
+          "Review all previous assessment techniques"
+        ]
+      },
+      {
+        "date": "11-14",
+        "week": 12,
+        "topics": [
+          "Urinary System",
+          "Assessment at the Hospital Bedside"
+        ],
+        "required_readings": [
+          "Jarvis Textbook: Chapter 30 & Specific Urinary Chapters 25 & 27"
+        ],
+        "skills_practice": [
+          "Conditions affecting urination and symptoms",
+          "Practice Bedside Assessment"
+        ]
+      },
+      {
+        "date": "11-21",
+        "week": 13,
+        "topics": [
+          "Performance Exam: Beginning of Shift Patient Assessment"
+        ],
+        "skills_practice": [
+          "VIDEOTAPED at SoN"
+        ]
+      },
+      {
+        "date": "11-28",
+        "week": 14,
+        "topics": [
+          "Thanksgiving Break – No class!"
+        ]
+      },
+      {
+        "date": "12-5",
+        "week": 15,
+        "topics": [
+          "Exam 2"
+        ]
+      },
+      {
+        "date": "TBD",
+        "week": 16,
+        "topics": [
+          "Repeat Performance Exam: Bedside Assessment: RETEST: LIVE at SoN"
+        ]
+      }
+    ],
+    "assessment_methods": [
+      "Satisfactory performance of all skill performance examinations",
+      "Completion of homework assignments",
+      "Skills lab manual",
+      "Documentation assignments",
+      "Exams",
+      "Professional attitude"
+    ],
+    "policies": {
+      "communication": "Students are expected to check CANVAS and email daily for course announcements and new information.",
+      "missed_exams": "If you miss an exam without prior arrangements, a score of zero will be recorded.",
+      "missing_performance_exam": "If a Performance Exam video is not turned in on time, a score of zero will be recorded."
+    },
+    "any_other_relevant_fields": {
+      "teaching_mode": "Friday 0800 lecture & weekly CANVAS quiz",
+      "classroom": "Rm. 1.112",
+      "skills_lab": "0930 or 1030"
+    },
+    "source_file": "N2242025962850.pdf"
+  },
+  {
+    "course_code": "N 366P",
+    "course_name": "Nursing Care of Children and their Families- Practicum",
+    "textbooks": [],
+    "learning_objectives": [
+      "Integrate and evaluate client’s subjective and objective health data.",
+      "Assess client’s health status.",
+      "Prioritize client’s health needs.",
+      "Plan and implement nursing interventions to meet the client’s health needs in a safe, timely, efficacious manner.",
+      "Evaluate the effectiveness of nursing interventions.",
+      "Use developmentally appropriate nursing interventions for children and families."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "attendance": "Failure to attend orientation in person without prior approval results in an unapproved absence and a 10% deduction of the corresponding grade.",
+      "medication_skills_checkoff": {
+        "passing_score": 100,
+        "retest_score": 85,
+        "failure_consequence": "Not passing the course if not passed by the third attempt."
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "Rachel Haungs",
+        "credentials": "DNP, RN, CPN",
+        "pronouns": "she/her",
+        "email": "rrh732@eid.utexas.edu",
+        "office": "NUR 5.122",
+        "phone": "512.471.7937",
+        "office_hours": "Thurs in-person 0800-0900 & 1100-1200; Thursday 1500-1600 remotely; and by appointment"
+      },
+      {
+        "name": "Jennifer Flippo",
+        "credentials": "DNP, APRN, CPNP-PC, PMHS, CNEcl",
+        "pronouns": "she/her",
+        "email": "jf39525@eid.utexas.edu",
+        "office": "NUR 4.142",
+        "phone": "817.471.3081",
+        "office_hours": "Mon 1400-1500, Tues 1400-1500 in person, and by appointment"
+      },
+      {
+        "name": "Jessica Cowen",
+        "credentials": "DNP, APRN, CPNP-AC/PC",
+        "pronouns": "she/her",
+        "email": "jc59738@eid.utexas.edu",
+        "office": "NUR 3.314",
+        "phone": "319.621.3843",
+        "office_hours": "Tues 0900-1100 remotely, and by appointment"
+      },
+      {
+        "name": "Beth Hadi",
+        "pronouns": "she/her",
+        "email": "Elizabeth.hadi@austin.utexas.edu",
+        "office": "TBD",
+        "phone": "512-415-6535",
+        "office_hours": "Available after Monday clinicals"
+      },
+      {
+        "name": "Samantha Stong",
+        "email": "samantha.stong@austin.utexas.edu",
+        "office": "NUR 5.142",
+        "office_hours": "Thursdays 1300-1600 in person and by appointment"
+      }
+    ],
+    "schedule": {
+      "meeting_times": "Tue 12:30 PM - 08:30 PM",
+      "unique_numbers": [
+        "63145 Mon 06:30 AM - 02:30 PM",
+        "63150 Mon 06:30 AM - 02:30 PM",
+        "63160 Mon 12:30 PM- 08:30 PM",
+        "63155 Tues 06:30 AM - 02:30 PM",
+        "63170 Tues 12:30 PM- 08:30 PM",
+        "63165 Tues 12:30 PM- 08:30 PM",
+        "63140 Tues 2:45 PM- 10:45 PM"
+      ],
+      "clinical_experience": "All students will participate in one off-site clinical experience, which may fall on a Saturday or other non-clinical day."
+    },
+    "assessment_methods": [
+      "Weekly documentation including EHR, discussion board postings, and other assignments.",
+      "Self-evaluations for midterm and final rotations."
+    ],
+    "policies": {
+      "transporting_policy": "Students are not permitted to transport clients or family members of clients in their own or other vehicles at any time."
+    },
+    "any_other_relevant_fields": {
+      "credit_hours": "Three semester hours based on 8 hours a week for the duration of the semester (15 weeks).",
+      "clinical_preparation": "Students are expected to come to clinical with the knowledge/skills necessary to meet the objectives of the day’s experience."
+    },
+    "source_file": "N366P2025963170.pdf"
+  },
+  {
+    "course_code": "N127P",
+    "course_name": "CLINICAL NURSING SKILLS I",
+    "textbooks": [
+      {
+        "title": "Clinical nursing skills & techniques",
+        "authors": [
+          "Perry, A. G.",
+          "Potter, P. A.",
+          "Ostendorf, W.",
+          "Laplante, N."
+        ],
+        "edition": "11th",
+        "year": 2024,
+        "publisher": "Elsevier"
+      },
+      {
+        "title": "Davis’ drug guide for nurses",
+        "authors": [
+          "Vallerand, A. H.",
+          "Sanoski, C."
+        ],
+        "edition": "19th",
+        "year": 2024,
+        "publisher": "F. A. Davis"
+      }
+    ],
+    "learning_objectives": [
+      "Demonstrate knowledge of purpose, procedure, and rationale of varied basic nursing skills.",
+      "Apply knowledge of purpose, procedure, and rationale of varied basic nursing skills.",
+      "Apply national safety and quality standards to all nursing skills and care.",
+      "Demonstrate professional standards of moral, ethical, and legal conduct in all class activities.",
+      "Demonstrate development of clinical judgement through recognition, analysis, prioritization, solution generation, action, and evaluation.",
+      "Demonstrate appropriate use of technology throughout the spectrum of nursing care."
+    ],
+    "learning_outcomes": [
+      "Demonstrate knowledge of purpose, procedure, and rationale of varied basic nursing skills.",
+      "Apply knowledge of purpose, procedure, and rationale of varied basic nursing skills.",
+      "Apply national safety and quality standards to all nursing skills and care.",
+      "Demonstrate professional standards of moral, ethical, and legal conduct in all class activities.",
+      "Demonstrate development of clinical judgement through recognition, analysis, prioritization, solution generation, action, and evaluation.",
+      "Demonstrate appropriate use of technology throughout the spectrum of nursing care."
+    ],
+    "grading_information": {
+      "passing_grade": 75,
+      "grade_breakdown": {
+        "A": "90-100%",
+        "B": "80-89.99%",
+        "C": "75-79.99%",
+        "Not_passing": "<75%"
+      },
+      "evaluation_criteria": [
+        {
+          "assignment": "Performance exams",
+          "weight": "50%"
+        },
+        {
+          "assignment": "Content quizzes",
+          "weight": "20%"
+        },
+        {
+          "assignment": "Homework",
+          "weight": "20%"
+        },
+        {
+          "assignment": "Simulations",
+          "weight": "10%"
+        }
+      ]
+    },
+    "instructor_information": [
+      {
+        "name": "Larissa Brungot, DNP, RN, CNE",
+        "role": "Course Facilitator",
+        "pronouns": "She/Her/Hers",
+        "phone": "575-649-9554",
+        "email": "lalberson@nursing.utexas.edu",
+        "office": "NUR 5.102G",
+        "office_hours": "Th 10:00a-1:00p & by appt"
+      },
+      {
+        "name": "Jenise Baker, DNP, RN",
+        "pronouns": "She/Her/Hers",
+        "phone": "573-855-6058",
+        "email": "Jenise.baker@austin.utexas.edu",
+        "office": "NUR 5.168",
+        "office_hours": "M, W, & F by appt; Th 10:15a-1:15p"
+      },
+      {
+        "name": "Samantha Stong, MSN, RN",
+        "pronouns": "She/Her/Hers",
+        "phone": "815-735-1401",
+        "email": "samantha.stong@austin.utexas.edu",
+        "office": "NUR 5.142",
+        "office_hours": "Th 1:00-4:00p"
+      },
+      {
+        "name": "William Wright, MSN, RN",
+        "pronouns": "He/Him/His",
+        "phone": "979-229-8785",
+        "email": "william.wright@austin.utexas.edu",
+        "office": "NUR 5.168",
+        "office_hours": "Th 10:00-11:00a & 12:00-1:00p"
+      }
+    ],
+    "schedule": {
+      "class_times": [
+        {
+          "day": "Thursday",
+          "time": "8:00-10:00a",
+          "location": "NUR 4.118"
+        },
+        {
+          "day": "Thursday",
+          "time": "1:30-3:30p",
+          "location": "NUR 4.118"
+        },
+        {
+          "day": "Thursday",
+          "time": "1:30-3:30p",
+          "location": "NUR 4.108"
+        },
+        {
+          "day": "Thursday",
+          "time": "8:00-10:00a",
+          "location": "NUR 4.108"
+        },
+        {
+          "day": "Thursday",
+          "time": "8:00-10:00a",
+          "location": "NUR 4.120"
+        },
+        {
+          "day": "Thursday",
+          "time": "1:30-3:30p",
+          "location": "NUR 4.120"
+        }
+      ]
+    },
+    "assessment_methods": [
+      "Performance exams",
+      "Content quizzes",
+      "Homework",
+      "Simulations"
+    ],
+    "policies": [
+      "Attendance policy",
+      "Professionalism",
+      "Safety",
+      "HIPAA & Electronic Devices",
+      "Accessibility & Inclusivity",
+      "Non-Discrimination",
+      "Title IX"
+    ],
+    "any_other_relevant_fields": {
+      "course_description": "Laboratory instruction and practice in various clinical nursing skills. Successful completion of this course is required to progress into N325P Adult Health Nursing I and is a companion course to N224 Health Assessment Skills.",
+      "communication": "Email is the official communication tool of UT Austin. Use Canvas messages for class-related topics."
+    },
+    "source_file": "N127P2025962915.pdf"
+  },
+  {
+    "course_code": "N 377",
+    "course_name": "Leadership & Management in Nursing Care",
+    "textbooks": [
+      {
+        "title": "Nursing Leadership and Management for Patient Safety and Quality Care",
+        "isbn": "978-1719641791",
+        "authors": "Elizabeth Murray",
+        "publisher": "F.A. Davis Company",
+        "publication_date": "November 16, 2021",
+        "edition": "2nd"
+      }
+    ],
+    "learning_objectives": [
+      "Demonstrate a working knowledge of the Texas Nurse Practice Act, Rules and Regulations, position statements, and disciplinary procedures and their implications for public safety and nursing practice.",
+      "Evaluate nursing leadership roles in settings that influence development of healthcare policy, leading change, affordability, and access to healthcare in diverse settings.",
+      "Examine the roles and responsibilities of nursing regulatory agencies and their effect on patient care quality, risk reduction, workplace safety, and disaster planning in the healthcare setting.",
+      "Employ methods of communication for collaboration in interprofessional environments to provide quality, evidence-based, patient-centered care.",
+      "Apply nursing perspectives on lifelong learning, nursing leadership, and nursing practice excellence to promote professional growth.",
+      "Demonstrate understanding of the relationship between personal health and self-renewal as it impacts the ability to deliver sustained quality care.",
+      "Analyze historic and current legislation that impacts workplace violence and the role of nursing in advocacy efforts."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "grading_policy": {
+        "final_grade": {
+          "90-100": "A",
+          "80-89.99": "B",
+          "75-79.99": "C",
+          "<74.99": "F"
+        },
+        "assignments": [
+          {
+            "name": "Class participation",
+            "points": 15
+          },
+          {
+            "name": "Murray - Ch 16 Quiz",
+            "points": 10
+          },
+          {
+            "name": "Murray - Ch 15 Quiz",
+            "points": 10
+          },
+          {
+            "name": "Murray - Ch 17 Quiz",
+            "points": 10
+          },
+          {
+            "name": "Management/Professional Issues Integrated Test - Kaplan",
+            "points": 10
+          },
+          {
+            "name": "Everyday Leadership Quiz - Kaplan",
+            "points": 5
+          },
+          {
+            "name": "Safe & Effective Care Quiz - Kaplan",
+            "points": 5
+          },
+          {
+            "name": "Legal Management of Care Quiz - Kaplan",
+            "points": 5
+          },
+          {
+            "name": "Question submission for Leadership Panel",
+            "points": 5
+          },
+          {
+            "name": "Mentoring Assignment reflection",
+            "points": 5
+          },
+          {
+            "name": "Mentoring Assignment affidavit",
+            "points": 5
+          },
+          {
+            "name": "Professional Nursing Organization Discussion post and response to 2 classmates",
+            "points": 5
+          },
+          {
+            "name": "Texas Jurisprudence Exam (or alternative assignment for non-Texas licensees)",
+            "points": 10
+          },
+          {
+            "name": "Optional Extra Credit - Mid-Course Survey",
+            "points": 1
+          },
+          {
+            "name": "Optional Extra Credit - End of Course Survey",
+            "points": 3
+          }
+        ],
+        "total_points": 100
+      }
+    },
+    "instructor_information": {
+      "name": "Jennifer Williams",
+      "credentials": "MSN, RN, NEA-BC, CEN",
+      "pronouns": "she/hers",
+      "email": "jnw2627@eid.utexas.edu",
+      "office_location": "N 5.146 or classroom",
+      "office_hours": "Wednesdays (classroom) 0730-0900 and 1300-1500 (office). Fridays on class days 0730-0900 (classroom). By appointment and virtual options as needed."
+    },
+    "schedule": [
+      {
+        "date": "8/27/25",
+        "topic": "Course Orientation, Overview, Expectations",
+        "assignments_due": "About Me Form"
+      },
+      {
+        "date": "8/29/25",
+        "topic": "Lecture: Everyday Leadership in Nursing",
+        "assignments_due": "Everyday Leadership Quiz (Kaplan)"
+      },
+      {
+        "date": "9/3/25",
+        "topic": "Lecture: Communication in Healthcare, Giving and Receiving Feedback, Conflict Resolution",
+        "assignments_due": "Ch 15 Quiz"
+      },
+      {
+        "date": "9/5/25",
+        "topic": "Resume & Interview Practice",
+        "assignments_due": "Class Participation"
+      },
+      {
+        "date": "9/10/25",
+        "topic": "Kaplan Benchmarking Proctored Exam",
+        "assignments_due": "Required attendance"
+      },
+      {
+        "date": "9/12/25",
+        "topic": "Nursing Informatics",
+        "assignments_due": "Guest Speaker: Dr. Kavita Radhakrishnan"
+      },
+      {
+        "date": "9/17/25",
+        "topic": "Lecture: Jurisprudence",
+        "assignments_due": "Class Participation – NCLEX questions"
+      },
+      {
+        "date": "9/19/25",
+        "topic": "Mentoring, Teaching, and Leading Practicum",
+        "assignments_due": "Practicum Release Day (No Class)"
+      },
+      {
+        "date": "9/24/25",
+        "topic": "Lecture: Jurisprudence Delegation & Scope of Practice",
+        "assignments_due": "Kaplan Legal Management of Care Quiz"
+      },
+      {
+        "date": "9/26/25",
+        "topic": "Lecture: Jurisprudence - HIPAA and Boundary Considerations",
+        "assignments_due": "Class participation – case reviews"
+      },
+      {
+        "date": "10/1/25",
+        "topic": "Lecture: Nursing Unit Staffing & Management",
+        "assignments_due": "Assignment Game – class participation"
+      },
+      {
+        "date": "10/3/25",
+        "topic": "Lecture: Jurisprudence Delegation recap",
+        "assignments_due": "Guest speaker"
+      },
+      {
+        "date": "10/8/25",
+        "topic": "Wellness and Self-care in Nursing",
+        "assignments_due": "Guest Speaker: Chris Divin"
+      },
+      {
+        "date": "10/10/25",
+        "topic": "Self-Care - take time on your own to recharge your battery.",
+        "assignments_due": "Self-Care Release Day (No Class)"
+      },
+      {
+        "date": "10/15/25",
+        "topic": "Lecture: Culture of Safety/Just Culture",
+        "assignments_due": "Question for Leadership Panel Submission"
+      },
+      {
+        "date": "10/17/25",
+        "topic": "Kaplan Integrated Test – Management/Professional Issues",
+        "assignments_due": "Required Attendance"
+      },
+      {
+        "date": "10/22/25",
+        "topic": "Leadership & Management Panel Q&A for local Nursing Leaders",
+        "assignments_due": ""
+      },
+      {
+        "date": "10/24/25",
+        "topic": "Attend 1 professional nursing organization meeting",
+        "assignments_due": "Reflection from Professional Organization meeting"
+      },
+      {
+        "date": "10/29/25",
+        "topic": "Capstone Student & Faculty Orientation",
+        "assignments_due": "Texas Jurisprudence Exam (or alternative)"
+      }
+    ],
+    "assessment_methods": [],
+    "policies": {
+      "attendance_policy": "It is expected that students attend each class period and participate in the learning activities. Excused absences include job interviews, religious holidays, illness, or extenuating circumstances due to an emergency.",
+      "academic_integrity": "Students who violate University rules on academic misconduct are subject to the student conduct process. Scholastic dishonesty includes cheating, plagiarism, collusion, falsifying academic records, and misrepresenting facts."
+    },
+    "any_other_relevant_fields": {
+      "instructional_mode": "Face-to-face",
+      "meeting_times": "Wed 09:00 AM - 12:00 PM; Fri 09:00 AM - 12:00 PM",
+      "meeting_location": "NUR 1.116",
+      "unique_number": "63230",
+      "pre_requisites": "Nursing 325 or consent of instructor. Nursing 377 and 377H may not both be counted."
+    },
+    "source_file": "N3772025963230.pdf"
+  },
+  {
+    "course_code": "N321",
+    "course_name": "Ethics of Health Care",
+    "textbooks": "There is no textbook for this course. All readings will be provided free of charge on Canvas.",
+    "learning_objectives": [
+      "Examine the complex socio-political, multi-cultural, economic, and technological factors which have helped create contemporary health dilemmas.",
+      "Analyze the underlying premises and rationales of major comparative ethical theories.",
+      "Explore the resolution of selected ethical dilemmas through the use of models of ethical reasoning and decision making.",
+      "Analyze the interrelationship between ethics and the law and the impact of judicial decisions on health care practices and policies.",
+      "Trace the historical evolution of the concept of professional ethics in health care.",
+      "Analyze the ethical obligations and duties of health professionals which emanate from the nature of the caregiver-patient relationship.",
+      "Apply principles of ethical reasoning to the process of resolving ethical dilemmas.",
+      "Select and integrate appropriate research findings in the study of ethical issues related to health care."
+    ],
+    "learning_outcomes": "At the conclusion of this course you will be able to...",
+    "grading_information": {
+      "total_points": 100,
+      "components": {
+        "Prep Sheets": "28% (7x 4%)",
+        "Paper Drafts": "15% (2x 7.5%)",
+        "Final Paper": "15%",
+        "Peer Review": "5%",
+        "Group Presentation / Case Study": "15%",
+        "Group Sign Up and Check Ins": "4%",
+        "Ethics Movie Reflection": "10%",
+        "Participation - Personal Letter of Reference": "8%"
+      },
+      "extra_credit": "Extra credit will only be applied after students have met the requirements for passing the course."
+    },
+    "instructor_information": {
+      "name": "Dr. Nico Osier",
+      "email": "NicoOsier@utexas.edu",
+      "office": "School of Nursing 3.442",
+      "phone": "(512) 232-4755",
+      "office_hours": "Usually M 12-1:30 & Wed 1:30-3; please schedule 2+ hours prior."
+    },
+    "schedule": [
+      {
+        "week": "1.1",
+        "date": "08/25",
+        "agenda": "Introductions AND Academic Integrity"
+      },
+      {
+        "week": "1.2",
+        "date": "08/27",
+        "agenda": "Key Concepts and ANA Code of Ethics"
+      },
+      {
+        "week": "2.1",
+        "date": "09/01",
+        "agenda": "Labor Day! HAVE FUN AND BE SAFE!"
+      },
+      {
+        "week": "2.2",
+        "date": "09/03",
+        "agenda": "Professional Nursing Ethics"
+      },
+      {
+        "week": "3.1",
+        "date": "09/08",
+        "agenda": "Ethics Committees AND Health Care Reform"
+      },
+      {
+        "week": "3.2",
+        "date": "09/10",
+        "agenda": "Ethics and the Law **In 5.180**"
+      },
+      {
+        "week": "4.1",
+        "date": "09/15",
+        "agenda": "Advocacy"
+      },
+      {
+        "week": "4.2",
+        "date": "09/17",
+        "agenda": "Working Day! It’s REQUIRED to meet in groups!"
+      },
+      {
+        "week": "5.1",
+        "date": "09/22",
+        "agenda": "Ethics in Film Day!"
+      },
+      {
+        "week": "5.2",
+        "date": "09/24",
+        "agenda": "Pediatrics AND Older Adults"
+      },
+      {
+        "week": "6.1",
+        "date": "09/29",
+        "agenda": "Working Day! It’s REQUIRED to meet in groups!"
+      },
+      {
+        "week": "6.2",
+        "date": "10/01",
+        "agenda": "Health and Wellness"
+      },
+      {
+        "week": "7.1",
+        "date": "10/06",
+        "agenda": "Genetics and Genomic Ethics"
+      },
+      {
+        "week": "7.2",
+        "date": "10/08",
+        "agenda": "Communicable Disease"
+      },
+      {
+        "week": "8.1",
+        "date": "10/13",
+        "agenda": "Movie reflection and paper draft time"
+      },
+      {
+        "week": "8.2",
+        "date": "10/15",
+        "agenda": "Working Day! It’s REQUIRED to meet in groups!"
+      },
+      {
+        "week": "9.1",
+        "date": "10/20",
+        "agenda": "Intimate Partner Violence"
+      },
+      {
+        "week": "9.2",
+        "date": "10/22",
+        "agenda": "Assisted Reproductive Technologies"
+      },
+      {
+        "week": "10.1",
+        "date": "10/27",
+        "agenda": "Movie reflection and paper draft time"
+      },
+      {
+        "week": "10.2",
+        "date": "10/29",
+        "agenda": "Working Day! It’s REQUIRED to meet in groups!"
+      },
+      {
+        "week": "11.1",
+        "date": "11/03",
+        "agenda": "Hospice, Palliative Care, Advanced Care Plans"
+      },
+      {
+        "week": "11.2",
+        "date": "11/05",
+        "agenda": "Working Day! It's REQUIRED to meet in groups!"
+      },
+      {
+        "week": "12.1",
+        "date": "11/10",
+        "agenda": "Peer Review!"
+      },
+      {
+        "week": "12.2",
+        "date": "11/12",
+        "agenda": "Withholding & Withdrawing Care"
+      },
+      {
+        "week": "13.1",
+        "date": "11/17",
+        "agenda": "Euthanasia, Palliative Sedation"
+      },
+      {
+        "week": "13.2",
+        "date": "11/19",
+        "agenda": "Incarceration AND Homelessness AND Substance Use"
+      },
+      {
+        "week": "14.1",
+        "date": "11/24",
+        "agenda": "Fall break! Have fun and be safe!"
+      },
+      {
+        "week": "14.2",
+        "date": "11/26",
+        "agenda": "Fall break! Have fun and be safe!"
+      },
+      {
+        "week": "15.1",
+        "date": "12/01",
+        "agenda": "Last class with content/wrap up loose ends"
+      },
+      {
+        "week": "15.2",
+        "date": "12/03",
+        "agenda": "Presentations Part 1"
+      },
+      {
+        "week": "16.1",
+        "date": "12/08",
+        "agenda": "Presentations Part 2 - Last class day!"
+      }
+    ],
+    "assessment_methods": "Assignments are always due at 11:59 PM. Assignment due dates follow a pattern as follows: The group sign up is due 1 night BEFORE the 2nd class period, Prep assignments are due 1 night BEFORE the lecture, Working day tasks are due 1 night OF the working day (Check-Ins; Peer Review), Paper components are due as follows: Draft 1 is due 1 night BEFORE the 8th class period, Draft 2 is due 2 weeks BEFORE the peer review, Final Draft is due 2 weeks AFTER the peer review, Group projects are due 2 weeks AFTER check-in 4, The movie review and letter of reference are due the last class day.",
+    "policies": {
+      "late_work": "The professor reserves the right to create a penalty and deduct points for late work.",
+      "attendance": "You are responsible for staying on top of the material, so don't slack!",
+      "student_honor_code": "This is an ethics class - act ethically!"
+    },
+    "any_other_relevant_fields": {
+      "class_website": "Canvas",
+      "pre_requisites": "Rhetoric & Writing 306",
+      "class_days": "Monday, Wednesday",
+      "class_time": "1530-1650 hrs",
+      "class_room": "NUR 5.178"
+    },
+    "source_file": "FALL 2025 - N321 (5).pdf"
+  },
+  {
+    "course_code": "N277P",
+    "course_name": "Clinical Care Management Practicum",
+    "textbooks": "There are no required resources for this course! Students are expected to use textbooks from previous courses, research and other journal articles, and other references as needed.",
+    "learning_objectives": [
+      "Synthesize knowledge gained from coursework and clinical practice to promote safe and effective patient care using clinical judgement model.",
+      "Apply national safety and quality standards to all patient care and interactions.",
+      "Provide care as a collaborative member of an interprofessional healthcare team.",
+      "Demonstrate competence in organizing, managing, and delivering safe and effective person-centered care in an adult health setting.",
+      "Evaluate common healthcare practices and compare current research findings.",
+      "Develop individual professional identity of nursing through reflection, spirit of inquiry, and self-evaluation."
+    ],
+    "learning_outcomes": [
+      "Synthesize knowledge gained from coursework and clinical practice to promote safe and effective patient care using clinical judgement model.",
+      "Apply national safety and quality standards to all patient care and interactions.",
+      "Provide care as a collaborative member of an interprofessional healthcare team.",
+      "Demonstrate competence in organizing, managing, and delivering safe and effective person-centered care in an adult health setting.",
+      "Evaluate common healthcare practices and compare current research findings.",
+      "Develop individual professional identity of nursing through reflection, spirit of inquiry, and self-evaluation."
+    ],
+    "grading_information": {
+      "methods_of_evaluation": {
+        "Clinical Practice in Assigned Agency": "80%",
+        "Weekly Reflections": "10%",
+        "EBP Presentation": "10%"
+      },
+      "grading_scale": {
+        "90-100": "A",
+        "80-89.99": "B",
+        "75-79.99": "C",
+        "<75": "Not passing"
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "WH Harris",
+        "credentials": "DNP, FNP-BC, ENP",
+        "office": "NUR 4.152",
+        "phone": "(915)781-9885",
+        "email": "wh.harris@nursing.utexas.edu",
+        "office_hours": "Tue 3-4PM or by appt",
+        "sections": [
+          "63235 (Mon AM)",
+          "63250 (Tue AM)"
+        ]
+      },
+      {
+        "name": "Jenise Baker",
+        "credentials": "DNP, RN",
+        "office": "NUR 5.168",
+        "phone": "573-855-6058",
+        "email": "jenise.baker@austin.utexas.edu",
+        "office_hours": "Mon, Wed, Fri by appt; Thur 1015 – 1315",
+        "sections": [
+          "63245 (Mon PM)",
+          "63260 (Tue PM)"
+        ]
+      },
+      {
+        "name": "Amy Hernandez",
+        "credentials": "DNP, RN, CNE",
+        "office": "NUR 5.163",
+        "phone": "(512)743-4452",
+        "email": "amy.hernandez@austin.utexas.edu",
+        "office_hours": "Monday 3-4pm or by appt",
+        "sections": [
+          "63240 (Mon AM)",
+          "63255 (Tue AM)"
+        ]
+      }
+    ],
+    "schedule": {
+      "total_hours": 82,
+      "duration": "10 weeks",
+      "breakdown": {
+        "Medication Exam": "2 hours",
+        "Weekly Clinical/Post-Clinical": "72 hours",
+        "Simulation": "8 hours"
+      }
+    },
+    "assessment_methods": [
+      "Medication Math Exam",
+      "Weekly Reflections",
+      "EBP Presentation"
+    ],
+    "policies": {
+      "attendance": "Students are expected to attend all clinical experiences and to be on time. Failure to appear for scheduled clinical experiences and tardiness are viewed as unprofessional behavior.",
+      "punctuality": "Arriving late to clinical or post-conference will be reflected in the Professionalism element of the student’s evaluation.",
+      "late_work": "All assignments are to be submitted to the Canvas course site by midnight of the date due. A grade will be deducted 5-points for each day that an assignment is submitted past the due date, up to 3 days.",
+      "make_up_work": "All missed clinical hours must be made-up through alternative assignments."
+    },
+    "any_other_relevant_fields": {
+      "credit_hours": "2-semester hours credit course",
+      "prerequisites": [
+        "N265",
+        "N266",
+        "N365P",
+        "N366P",
+        "N455",
+        "credit or registration in N377 or N377H"
+      ],
+      "uniform_policy": "Students must wear the current burnt orange uniform. UT uniforms are available through UT Document Solutions."
+    },
+    "source_file": "N277P2025963260.pdf"
+  },
+  {
+    "course_code": "N255C",
+    "course_name": "Adult Health Nursing IIa",
+    "textbooks": [
+      {
+        "title": "Kaplan Nursing",
+        "description": "Mandatory subscription to Kaplan, a comprehensive program to help prepare for the NCLEX."
+      },
+      {
+        "title": "Saunders Comprehensive Review for the NCLEX-RN Examination",
+        "authors": "Silvestri, L.A., et al.",
+        "edition": "9th",
+        "year": 2022,
+        "publisher": "Elsevier Mosby"
+      },
+      {
+        "title": "Taber's cyclopedic medical dictionary",
+        "authors": "Venes, D., Thomas, C. L., & Taber, C. W.",
+        "edition": "21st",
+        "year": 2013,
+        "publisher": "Davis"
+      },
+      {
+        "title": "Davis’ drug guide for Nurses",
+        "authors": "Vallerand, A. H. & Sanoski, C. A.",
+        "year": 2012,
+        "publisher": "F.A. Davis Company"
+      },
+      {
+        "title": "Laboratory and diagnostic tests with nursing implications",
+        "authors": "Kee, J.",
+        "edition": "8th",
+        "year": 2013,
+        "publisher": "Prentice Hall"
+      },
+      {
+        "title": "Lewis’s Medical-Surgical Nursing: Assessment and management of clinical problems",
+        "authors": "Harding, M. M., Kwong, J., Hagler, D., & Reinisch, C.",
+        "edition": "12th",
+        "year": 2023,
+        "publisher": "Elsevier (Mosby)"
+      },
+      {
+        "title": "Clinical judgement and Test Taking Strategies: Passing Nursing School and the NCLEX Exam",
+        "authors": "Silvestri, L.A., & Silvestri, A.",
+        "edition": "8th",
+        "year": 2023,
+        "publisher": "Saunders Elsevier"
+      },
+      {
+        "title": "Strategies for Student Success on the Next Generation NCLEX® (NGN) Test Items",
+        "authors": "Silvestri, L.A., et al.",
+        "edition": "1st",
+        "year": 2022,
+        "publisher": "Saunders Elsevier"
+      }
+    ],
+    "learning_objectives": [
+      "Examine selected societal, environmental, and technological trends that affect the health of adults.",
+      "Explain self-care processes which promote and restore health in adult clients.",
+      "Explain nursing care, which would promote health in adult clients who are experiencing chronic stress related to physiological and psychological alterations.",
+      "Explain nursing care which would promote health in adult clients who are experiencing acute stress related to physiological and psychological alterations.",
+      "Select and integrate appropriate research findings in the study of adult health."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "course_grade_breakdown": {
+        "Homework": "30%",
+        "Exams (3)": "50%",
+        "Comprehensive Final Exam": "20%"
+      },
+      "grading_scheme": {
+        "A": "90-100",
+        "B": "80-89.99",
+        "C": "75-79.99",
+        "D": "60-74.99",
+        "F": "Below 60"
+      },
+      "passing": "A passing grade of 75 or above is required to progress in the BSN curriculum."
+    },
+    "instructor_information": {
+      "name": "Anna Mendoza",
+      "credentials": "MSN, RN, CCRN",
+      "office_hours": "By appointment Wednesday 0900-1100 & 1500-1700, Thursdays 1530-1700",
+      "email": "Via Canvas"
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "date": "08/29/2025",
+        "topic": "Course Orientation & Hematologic Disorders",
+        "homework": "Quiz due 9/5 at 1100"
+      },
+      {
+        "week": 2,
+        "date": "09/05/2025",
+        "topic": "Immune Disorders",
+        "homework": "Quiz due 9/12 at 1100"
+      },
+      {
+        "week": 3,
+        "date": "09/12/2025",
+        "topic": "Diabetes Mellitus",
+        "homework": "Practice Exam 1 due 9/18 at 2359, Remediation due 9/18 at 2359"
+      },
+      {
+        "week": 4,
+        "date": "09/19/2025",
+        "topic": "Exam 1"
+      },
+      {
+        "week": 5,
+        "date": "09/26/2025",
+        "topic": "Heart Failure",
+        "homework": "Quiz due 10/3 at 1100"
+      },
+      {
+        "week": 6,
+        "date": "10/03/2025",
+        "topic": "Inflammatory & Structural Heart Disorders",
+        "homework": "Quiz due 10/10 at 1100"
+      },
+      {
+        "week": 7,
+        "date": "10/10/2025",
+        "topic": "Coronary Artery Disease & Acute Coronary Syndrome",
+        "homework": "Quiz due 10/17 at 1100"
+      },
+      {
+        "week": 8,
+        "date": "10/17/2025",
+        "topic": "Dysrhythmias",
+        "homework": "Practice Exam 2 due 10/23 at 2359, Remediation due 10/23 at 2359"
+      },
+      {
+        "week": 9,
+        "date": "10/24/2025",
+        "topic": "Exam 2"
+      },
+      {
+        "week": 10,
+        "date": "10/31/2025",
+        "topic": "Increased Intracranial Pressure",
+        "homework": "Quiz due 11/7 at 1100"
+      },
+      {
+        "week": 11,
+        "date": "11/07/2025",
+        "topic": "Stroke",
+        "homework": "Quiz due 11/14 at 1100"
+      },
+      {
+        "week": 12,
+        "date": "11/14/2025",
+        "topic": "Shock Syndromes",
+        "homework": "Practice Exam 3 due 11/20 at 2359, Remediation due 11/20 at 2359"
+      },
+      {
+        "week": 13,
+        "date": "11/21/2025",
+        "topic": "Exam 3"
+      },
+      {
+        "week": 14,
+        "date": "11/28/2025",
+        "topic": "Thanksgiving Break- No Class"
+      },
+      {
+        "week": 15,
+        "date": "12/05/2025",
+        "topic": "Kaplan Benchmark Exam"
+      },
+      {
+        "week": 16,
+        "date": "12/11/2025",
+        "topic": "Comprehensive Final Exam",
+        "time": "1300-1500"
+      }
+    ],
+    "assessment_methods": [
+      "Class attendance",
+      "Seven Kaplan quizzes",
+      "Three practice exams with remediation",
+      "Three exams",
+      "Comprehensive final exam"
+    ],
+    "policies": {
+      "attendance": "While formal attendance will not be taken, consistent presence and active engagement are essential for success.",
+      "late_work": "Any homework, quiz, or assignment not completed by the due date will be graded as a zero.",
+      "accommodations_for_religious_holy_days": "Students must give notice at least 14 days prior to the absence."
+    },
+    "any_other_relevant_fields": {
+      "technology_requirements": "Students must have access to a laptop or tablet capable of running Google Chrome with the HonorLock extension."
+    },
+    "source_file": "N255C2025963010.pdf"
+  },
+  {
+    "course_code": "N255D",
+    "course_name": "Adult Health Nursing IIB",
+    "textbooks": {
+      "required": [
+        {
+          "title": "Medical Surgical Nursing",
+          "authors": [
+            "Lewis, S.L.",
+            "Dirksen, S.R.",
+            "Heitkemper, M.M.",
+            "Bucher, L.",
+            "Camera, I.M."
+          ],
+          "edition": "11th",
+          "publisher": "Elsevier Mosby",
+          "year": 2020
+        },
+        {
+          "title": "Kaplan Nursing",
+          "description": "A comprehensive program to help prepare you for taking and passing your National Council Licensure Examination (NCLEX)."
+        }
+      ],
+      "highly_recommended": [
+        {
+          "title": "Clinical judgement and Test Taking Strategies: Passing Nursing School and the NCLEX Exam",
+          "authors": [
+            "Silvestri, L.A.",
+            "Silvestri, A."
+          ],
+          "edition": "8th",
+          "publisher": "Saunders Elsevier",
+          "year": 2023
+        },
+        {
+          "title": "Strategies for Student Success on the Next Generation NCLEX® (NGN) Test Items",
+          "authors": [
+            "Silvestri, L.A."
+          ],
+          "edition": "1st",
+          "publisher": "Saunders Elsevier",
+          "year": 2022
+        },
+        {
+          "title": "Saunders Comprehensive Review for the NCLEX-RN Examination",
+          "edition": "9th",
+          "publisher": "Elsevier Mosby",
+          "year": 2022
+        }
+      ]
+    },
+    "learning_objectives": [
+      "Examine selected societal, environmental, and technological trends that affect the health of adults.",
+      "Explain self-care processes which promote and restore health in adult clients.",
+      "Explain nursing care, which would promote health in adult clients who are experiencing chronic stress related to physiological and psychological alterations.",
+      "Explain nursing care which would promote health in adult clients who are experiencing acute stress related to physiological and psychological alterations.",
+      "Select and integrate appropriate research findings in the study of adult health."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "course_grade_breakdown": {
+        "quizzes": {
+          "count": 10,
+          "weight": "7% each",
+          "total": "70%",
+          "lowest_two_dropped": true
+        },
+        "kaplan_homework": "10%",
+        "comprehensive_final": "20%"
+      },
+      "grading_scheme": {
+        "A": "90 – 100",
+        "B": "80 – 89.99",
+        "C": "75 – 79.99",
+        "D": "60 – 74.99",
+        "F": "below 60"
+      },
+      "passing_grade": "75 or above"
+    },
+    "instructor_information": {
+      "name": "Anna Mendoza",
+      "credentials": "MSN, RN, CCRN",
+      "office": "NUR 5.138",
+      "email": "Canvas mail only",
+      "office_hours": [
+        {
+          "day": "Wednesday",
+          "time": "0900 - 1100 and 1500 - 1700"
+        },
+        {
+          "day": "Thursday",
+          "time": "1530 - 1700"
+        }
+      ]
+    },
+    "schedule": [
+      {
+        "week": 1,
+        "date": "08/28/2025",
+        "topic": "Course Orientation & Infectious/Obstructive Urinary Problems"
+      },
+      {
+        "week": 2,
+        "date": "09/04/2025",
+        "topic": "Acute and Chronic Kidney Problems",
+        "due": "Quiz 1"
+      },
+      {
+        "week": 3,
+        "date": "09/11/2025",
+        "topic": "Upper GI",
+        "due": "Quiz 2"
+      },
+      {
+        "week": 4,
+        "date": "09/18/2025",
+        "topic": "Lower GI",
+        "due": "Quiz 3"
+      },
+      {
+        "week": 5,
+        "date": "09/25/2025",
+        "topic": "Gallbladder and Pancreas",
+        "due": "Quiz 4"
+      },
+      {
+        "week": 6,
+        "date": "10/02/2025",
+        "topic": "Liver",
+        "due": "Quiz 5"
+      },
+      {
+        "week": 7,
+        "date": "10/09/2025",
+        "topic": "Endocrine Disorders",
+        "due": "Quiz 6"
+      },
+      {
+        "week": 8,
+        "date": "10/16/2025",
+        "topic": "Cancer Part 1",
+        "due": "Quiz 7"
+      },
+      {
+        "week": 9,
+        "date": "10/23/2025",
+        "topic": "Cancer Part 2",
+        "due": "Quiz 8"
+      },
+      {
+        "week": 10,
+        "date": "10/30/2025",
+        "topic": "Burns",
+        "due": "Quiz 9"
+      },
+      {
+        "week": 11,
+        "date": "11/06/2025",
+        "topic": "SCI, TBI, Seizures",
+        "due": "Quiz 10"
+      },
+      {
+        "week": 12,
+        "date": "11/13/2025",
+        "topic": "Acute/Chronic Peripheral Neurological Problems",
+        "due": "Quiz 11"
+      },
+      {
+        "week": 13,
+        "date": "11/20/2025",
+        "topic": "Kaplan Benchmark Exam",
+        "due": "Quiz 12"
+      },
+      {
+        "week": 14,
+        "date": "11/27/2025",
+        "topic": "Thanksgiving Break- No Class"
+      },
+      {
+        "week": 15,
+        "date": "12/04/2025",
+        "topic": "Final Review"
+      },
+      {
+        "week": 16,
+        "date": "12/12/2025",
+        "topic": "Comprehensive Final Exam",
+        "time": "1530-1730"
+      }
+    ],
+    "assessment_methods": [
+      "Quizzes",
+      "Kaplan homework",
+      "Comprehensive final exam"
+    ],
+    "policies": {
+      "attendance": "Formal attendance will not be taken, but consistent presence and active engagement are essential for success.",
+      "religious_holy_days": "Students must notify the instructor at least 14 days prior to the absence.",
+      "makeup_quizzes": "Make-up quizzes will not be offered except in circumstances beyond the student’s control."
+    },
+    "any_other_relevant_fields": {
+      "canvas": "This course will utilize Canvas for course materials, announcements, and assessments.",
+      "lectures_online": "This class is using the Lectures Online recording system for reviewing class material.",
+      "honorlock": "All exams will be administered using Honorlock remote proctoring software."
+    },
+    "source_file": "N255D2025963015.pdf"
+  },
+  {
+    "course_code": "N157P",
+    "course_name": "Clinical Nursing Skills II Practicum",
+    "textbooks": [
+      {
+        "title": "Manual of I. V. therapeutics: Evidence-based practice for infusion therapy",
+        "authors": "Phillips, L. D., & Gorski, L.",
+        "edition": "7th",
+        "year": 2018,
+        "publisher": "F. A. Davis",
+        "location": "Philadelphia, PA",
+        "note": "free version at UT library"
+      },
+      {
+        "title": "Math for Nurses: A pocket guide to dosage calculation and drug preparation",
+        "authors": "Boyer, M. J.",
+        "edition": "9th",
+        "year": 2016,
+        "publisher": "Wolters Kluwer Health",
+        "location": "Philadelphia, PA",
+        "note": "Not part of the book bundle"
+      },
+      {
+        "title": "Clinical nursing skills & techniques",
+        "authors": "Perry, A. G., & Potter, P. A.",
+        "edition": "10th",
+        "year": 2022,
+        "publisher": "Elsevier",
+        "location": "St. Louis, MO"
+      }
+    ],
+    "learning_objectives": [
+      "Demonstrate knowledge of purpose, procedure, and rationale of varied advanced nursing skills and their related nursing interventions.",
+      "Apply knowledge of purpose, procedure, and rationale of advanced nursing skills and their related nursing interventions."
+    ],
+    "learning_outcomes": "Students must be knowledgeable and competent in performing ALL skills learned in this course by the end of the semester to progress to the S1 semester.",
+    "grading_information": {
+      "passing_grade": 75,
+      "grading_scale": {
+        "A": "90-100",
+        "B": "80-89.99",
+        "C": "75-79.99 (pass)",
+        "C_retake": "70-74.99 (must re-take)",
+        "D": "60-69.99",
+        "F": "< 60"
+      },
+      "assignment_weights": {
+        "Professionalism": "10%",
+        "Worksheets/Class Documentation": "5%",
+        "Video Assessments & Quizzes": "15%",
+        "Advanced Med Math Practice Questions & Exam": "10%",
+        "Video Performance Exam": "40%",
+        "Open Lab Attendance": "10%",
+        "Simulations": "10%"
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "Adam Blank, MSN, RN",
+        "role": "course facilitator",
+        "phone": "512-471-7969",
+        "email": "via Canvas",
+        "office_hours": "Wednesday 0900-1200",
+        "office": "4.168"
+      },
+      {
+        "name": "Christine Abbyad, PhD, RN",
+        "phone": "512-471-9092",
+        "email": "via Canvas",
+        "office_hours": "Monday 1400-1600",
+        "office": "4.120"
+      },
+      {
+        "name": "Jenise Baker DNP, RN",
+        "phone": "573-855-6058",
+        "email": "jenise.baker@austin.utexas.edu",
+        "office_hours": "Thursday 1015 – 1315 or M,W,F by appt.",
+        "office": "4.108"
+      },
+      {
+        "name": "Li-Chen Lin, PhD, RN",
+        "phone": "512-471-5069",
+        "email": "llin@mail.nur.utexas.edu",
+        "office_hours": "M 4-5pm, T 4-5pm, Wed 8-9am",
+        "office": "4.118"
+      },
+      {
+        "name": "Anna Mendoza",
+        "phone": "512-232-5392",
+        "email": "via Canvas",
+        "office_hours": "Wednesday 0900-1100 and 1500-1700 or Thursday 1530-1700 by appointment",
+        "office": "4.108"
+      }
+    ],
+    "schedule": "The Weekly Class Schedule will be posted to Canvas and is subject to change depending on unexpected events.",
+    "assessment_methods": [
+      "Content quizzes",
+      "Video assessments",
+      "Performance examinations",
+      "Open lab attendance",
+      "Simulations"
+    ],
+    "policies": {
+      "attendance": "Attendance is mandatory; all missed classes must be made up by appointment with the course instructor. No more than one make-up related to unexcused absence is allowed.",
+      "assignments": {
+        "late_policy": "Assignments can be completed up to 3 days after the due date. Every day an assignment is late there will be a 10-point penalty up to 3 days; after three days, all late assignments will be given a zero.",
+        "incomplete_assignments": "Incomplete assignments will not be graded and will be given a zero."
+      },
+      "professionalism": "Professional behavior is always expected while in class and in the skills lab and open lab."
+    },
+    "any_other_relevant_fields": {
+      "course_description": "Laboratory instruction and practice in clinical nursing skills. Once a skill instruction is completed and the student successfully return-demonstrates the skill in class, the student may perform the skill with supervision in the clinical setting.",
+      "prerequisites": [
+        "N325P (J1)",
+        "N256P (J1)",
+        "N127P (Soph II)"
+      ],
+      "canvas": "The course syllabus and class materials for individual classes will be posted on Canvas (http://canvas.utexas.edu)."
+    },
+    "source_file": "N157P2025963115.pdf"
+  },
+  {
+    "course_code": "N250",
+    "course_name": "Interprofessional Collaborative Practice",
+    "textbooks": "No required course textbook.",
+    "learning_objectives": [
+      "Demonstrate respect, trust, and integrity while valuing differences when working with members of other professions for the common goal of providing high-quality, patient-centered health care.",
+      "Understand the roles and responsibilities of the different healthcare professionals in providing safe, efficient, and effective patient-centered health care.",
+      "Communicate effectively with patients, families, and other health professionals by responding respectfully and seeking common understanding.",
+      "Demonstrates effective teamwork by applying principles of team dynamics, process improvement, and conflict management."
+    ],
+    "learning_outcomes": [
+      "Demonstrate respect, trust, and integrity while valuing differences when working with members of other professions for the common goal of providing high-quality, patient-centered health care.",
+      "Understand the roles and responsibilities of the different healthcare professionals in providing safe, efficient, and effective patient-centered health care.",
+      "Communicate effectively with patients, families, and other health professionals by responding respectfully and seeking common understanding.",
+      "Demonstrates effective teamwork by applying principles of team dynamics, process improvement, and conflict management."
+    ],
+    "grading_information": {
+      "total_points": 400,
+      "grade_distribution": {
+        "A": "360-400",
+        "B": "320-359",
+        "C": "280-319",
+        "F": "Less than 280"
+      }
+    },
+    "instructor_information": [
+      {
+        "role": "Course Director",
+        "name": "Ana Todd",
+        "credentials": "PhD, RN",
+        "office": "NUR 3.414",
+        "office_hours": "Monday 10:00a – 12:00p and Thursday 1:00p – 2:00p",
+        "contact": "atodd@mail.nur.utexas.edu"
+      },
+      {
+        "role": "Course Facilitator",
+        "name": "Amy Holland",
+        "credentials": "MSN, RN, CNE",
+        "office": "NUR 5.163",
+        "office_hours": "Thursday 9:00a -10:30a via Zoom, Friday 11:45a -1:15p in person",
+        "contact": "aeholland@mail.utexas.edu"
+      },
+      {
+        "role": "Course Faculty",
+        "names": [
+          "Patricia Hamilton-Solum, PhD, RN, IBCLC",
+          "Stephanie Morgan, PhD, RN, FNP-BC, FNAP",
+          "Jung Kwak, PhD, MSW, FGSA",
+          "Chris Abbyad, PhD, RN, WHNP",
+          "Lindsey Collins, MSN, RN"
+        ]
+      }
+    ],
+    "schedule": {
+      "class_meeting_dates": [
+        {
+          "event": "Course Kickoff",
+          "date": "August 29",
+          "location": "San Jacinto Residence Hall Multipurpose Room"
+        },
+        {
+          "event": "Roles & Responsibilities",
+          "dates": [
+            "Sep 5",
+            "Sep 12",
+            "Sep 19"
+          ],
+          "location": "HLB 1.111"
+        },
+        {
+          "event": "HIPE Day: Teamwork strategies and tools in health care practice",
+          "date": "Sep 26",
+          "location": "Student Union Shirley Bird Perry Ballroom"
+        },
+        {
+          "event": "TeamSTEPPS Applications",
+          "dates": [
+            "Oct 3",
+            "Oct 10",
+            "Oct 17"
+          ],
+          "location": "HLB 1.111"
+        },
+        {
+          "event": "Brief Intro to Motivational Interviewing",
+          "dates": [
+            "Oct 24",
+            "Oct 31",
+            "Nov 7"
+          ],
+          "location": "HLB 1.111"
+        },
+        {
+          "event": "Community Engagement & Social Entrepreneurship",
+          "dates": [
+            "Nov 14",
+            "Nov 21",
+            "Dec 5"
+          ],
+          "location": "HLB 1.111"
+        }
+      ]
+    },
+    "assessment_methods": {
+      "iRAT": {
+        "description": "Individual readiness assurance test",
+        "requirement": "Completed prior to each session",
+        "consequence": "Cumulative iRAT score < 70% will result in a remediation assignment."
+      },
+      "tRAT": {
+        "description": "Team readiness assurance test",
+        "requirement": "Attendance is taken electronically at the beginning of class."
+      },
+      "online_assignments": {
+        "description": "Activities and associated module assignments must be submitted to pass the course.",
+        "late_submission_policy": "Late submissions will receive a 10% per day deduction."
+      }
+    },
+    "policies": {
+      "attendance": {
+        "mandatory": true,
+        "excused_absences": [
+          "Potentially contagious condition or acute illness",
+          "Personal emergency defined and verified",
+          "Official school-related activities with advanced notification"
+        ],
+        "unexcused_absences": [
+          "Personal travel",
+          "Family events",
+          "Job interview"
+        ]
+      },
+      "communication": {
+        "method": "Canvas email",
+        "response_time": "24 hours during normal working hours (M-F 8-5)"
+      },
+      "professional_behavior": {
+        "expectations": "Students are expected to adhere to professional standards.",
+        "unprofessional_behavior": {
+          "tardy": "20 points deduction per occurrence",
+          "unexcused_absence": "100 points deduction per occurrence",
+          "professionalism_referral": "50 points deduction per occurrence"
+        }
+      }
+    },
+    "any_other_relevant_fields": {
+      "course_description": "This course focuses on developing the competencies needed for interprofessional collaborative practice among healthcare professionals.",
+      "teaching_modality": "Hybrid course with both in-person and online components."
+    },
+    "source_file": "N2502025962985.pdf"
+  },
+  {
+    "course_code": "N273",
+    "course_name": "Quality and Safety for Nursing Practice",
+    "textbooks": [
+      {
+        "title": "Publication manual of the American Psychological Association: the official guide to APA style",
+        "edition": "Seventh",
+        "year": 2020,
+        "publisher": "American Psychological Association"
+      },
+      {
+        "title": "Nursing leadership and management for patient safety and quality care",
+        "author": "Elizabeth Murray",
+        "edition": "Second",
+        "year": 2021,
+        "publisher": "F. A. Davis Company",
+        "availability": "FREE E-Book available through UT Libraries"
+      }
+    ],
+    "learning_objectives": [
+      "Develop a plan of care with the patient or designee as the source of control and full partner.",
+      "Demonstrate effective teamwork through communication, mutual respect, and shared decision-making to achieve quality patient care.",
+      "Apply best current evidence with clinical expertise and patient/family preferences and values for delivery of optimal health care.",
+      "Apply improvement methods to design and test changes to the quality and safety of health care systems.",
+      "Demonstrate knowledge of the relationship between system effectiveness and reducing risk of harm to patients and providers.",
+      "Evaluate how information and technology are used to communicate, manage knowledge, mitigate error, and support decision-making."
+    ],
+    "learning_outcomes": [],
+    "grading_information": {
+      "grading_scale": {
+        "A": "90 – 100%",
+        "B": "80 – 89.99%",
+        "C": "75 – 79.99%",
+        "D": "60 – 74.99%",
+        "F": "< 60"
+      },
+      "passing_grade": "75",
+      "final_exam": "No final exam"
+    },
+    "instructor_information": [
+      {
+        "name": "Nicole Murry",
+        "title": "PhD, RN, Clinical Associate Professor",
+        "office": "NUR 5.151",
+        "email": "Please email via Canvas course site.",
+        "office_hours": "Wednesdays 3:30pm – 5:00pm and by appointment"
+      },
+      {
+        "name": "Kathleen Sneed",
+        "title": "MSN, RN, IN-BC",
+        "office": "NUR 4.172",
+        "email": "Please email via Canvas course site.",
+        "office_hours": "Wednesdays 10:00am – 12:00pm"
+      }
+    ],
+    "schedule": {
+      "semester": "Fall 2025",
+      "day": "Wednesday",
+      "time": "1:00pm – 2:50pm",
+      "location": "NUR 1.112"
+    },
+    "assessment_methods": [
+      {
+        "type": "Written Reflections",
+        "description": "Response to four discussion prompts related to patient safety and quality principles.",
+        "percentage": 10
+      },
+      {
+        "type": "Interprofessional Online Discussion",
+        "description": "Participation in discussions with students from other programs.",
+        "percentage": 10
+      },
+      {
+        "type": "Quality Improvement (QI) Proposal",
+        "description": "Create a proposal addressing a practice change in a hospital setting.",
+        "percentage": 50
+      },
+      {
+        "type": "Peer review",
+        "description": "Review and evaluation of a peer group's proposal.",
+        "percentage": 5
+      },
+      {
+        "type": "Group Work Participation",
+        "description": "Contributions to group work evaluated by peers.",
+        "percentage": 5
+      },
+      {
+        "type": "Attendance",
+        "description": "Random attendance taken during class meetings.",
+        "percentage": 10
+      },
+      {
+        "type": "Class Participation",
+        "description": "Scores from quizzes, surveys, discussions, and presentations.",
+        "percentage": 10
+      }
+    ],
+    "policies": {
+      "late_work": "10% reduction for every 24-hour period an assignment is late without communication.",
+      "attendance": "Attendance at lectures is required.",
+      "religious_holy_days": "Notify in advance of any absences due to religious observance.",
+      "use_of_AI": "Generative AI tools may be used in class; unauthorized use constitutes plagiarism.",
+      "canvas_use": "All course materials and updates will be posted on Canvas."
+    },
+    "any_other_relevant_fields": {
+      "placement_in_curriculum": "First Semester, Senior Year",
+      "course_format": "Face-to-face (In person)",
+      "canvas_sites": [
+        "N273: Quality and Safety for Nursing Practice",
+        "IPE QI & Patient Safety Forum 2025-26"
+      ]
+    },
+    "source_file": "N2732025963185.pdf"
+  },
+  {
+    "course_code": "N355P",
+    "course_name": "Adult Health II Practicum",
+    "textbooks": "Students are expected to use textbooks from previous courses, research and other journal articles, and other references as needed.",
+    "learning_objectives": [
+      "Apply selected nursing and non-nursing theories that relate to the nursing care of adult patients.",
+      "Recognize physiological alterations in adult patients and use this information to generate and implement plans of care.",
+      "Integrate the understanding of chronic conditions into the provision of care of adult patients experiencing acute illness.",
+      "Organize nursing care effectively to meet the needs of more than one adult patient through collaboration with other members of the health care team.",
+      "Select and implement appropriate teaching strategies based on assessment of patients learning styles, needs and unique cultural perspective.",
+      "Select and utilize nursing research findings using electronic and human resources to provide care to adult patients.",
+      "Practice nursing according to legal, ethical, and professional standards, with a mind towards advocacy for one’s patients and oneself."
+    ],
+    "learning_outcomes": [
+      "Apply selected nursing and non-nursing theories that relate to the nursing care of adult patients.",
+      "Recognize physiological alterations in adult patients and use this information to generate and implement plans of care.",
+      "Integrate the understanding of chronic conditions into the provision of care of adult patients experiencing acute illness.",
+      "Organize nursing care effectively to meet the needs of more than one adult patient through collaboration with other members of the health care team.",
+      "Select and implement appropriate teaching strategies based on assessment of patients learning styles, needs and unique cultural perspective.",
+      "Select and utilize nursing research findings using electronic and human resources to provide care to adult patients.",
+      "Practice nursing according to legal, ethical, and professional standards, with a mind towards advocacy for one’s patients and oneself."
+    ],
+    "grading_information": {
+      "methods_of_evaluation": {
+        "Clinical Evaluation Tool": "80%",
+        "Advanced Patient Teaching Project": "15%",
+        "Simulation Preparation and Performance": "5%"
+      },
+      "grading_scale": {
+        "A": "90-100",
+        "B": "80-89.99",
+        "C": "75-79.99",
+        "Not Passing": "<75"
+      }
+    },
+    "instructor_information": [
+      {
+        "name": "Adam Blank",
+        "degree": "MSN, RN",
+        "office": "NUR 4.168",
+        "phone": "512-784-7491",
+        "email": "via Canvas",
+        "office_hours": "Wed 9-12"
+      },
+      {
+        "name": "Lindsey Collins",
+        "degree": "MSN, RN",
+        "office": "NUR 4.142",
+        "phone": "512-921-9037",
+        "email": "via Canvas or lindsey.collins@nursing.utexas.edu",
+        "office_hours": "Mondays 3:30 - 4:30 pm at Seton Main; Tuesdays 3:30 - 4:30 pm at NAMC, Fridays 12:00 - 1:00 pm"
+      },
+      {
+        "name": "Anna Mendoza",
+        "degree": "MSN, RN",
+        "office": "NUR 4.168",
+        "phone": "512-232-5392",
+        "email": "via Canvas",
+        "office_hours": "Wed 9-11 and 3-5 or Thurs 330-5 by appointment"
+      },
+      {
+        "name": "Joshua Thomas",
+        "degree": "DNP, RN",
+        "office": "NUR 4.164",
+        "phone": "254-563-5285",
+        "email": "via Canvas",
+        "office_hours": "Wed 9-12, Fri 1030-1300"
+      },
+      {
+        "name": "William Wright",
+        "degree": "MSN, RN",
+        "office": "NUR 5.168",
+        "phone": "979-229-8795",
+        "email": "via Canvas",
+        "office_hours": "Mon 1530-1630, Thurs 1000-1100 and 1200-1300"
+      }
+    ],
+    "schedule": {
+      "credit_hours": "4-semester hour credit course; 8 lab hours/week",
+      "attendance_policy": "Students are expected to attend all clinical experiences and to be on time."
+    },
+    "assessment_methods": [
+      "Clinical Evaluation Tool",
+      "Advanced Patient Teaching Project",
+      "Simulation Preparation and Performance"
+    ],
+    "policies": {
+      "attendance": "Students may receive a Professional Development Plan, grade reduction, and/or failing course grade for patterns of absence or tardiness.",
+      "late_work": "All assignments must be submitted through Canvas system. A hard copy may be required by the individual instructor.",
+      "makeup_work": "If a clinical day must be missed, faculty must be notified in advance."
+    },
+    "any_other_relevant_fields": {
+      "medication_math_exam": {
+        "requirement": "Each student must pass a medication calculation test with a grade of 90% in the S1 semester.",
+        "attempts": "Students will have two chances to achieve a score of 90%.",
+        "proctoring": "The medication math exam will be administered in Canvas using Honorlock remote proctoring software."
+      }
+    },
+    "source_file": "N355P2025963050.pdf"
+  },
+  {
+    "course_code": "N274",
+    "course_name": "Complex Nursing Care",
+    "textbooks": "No textbook required; materials will be provided on Canvas.",
+    "learning_objectives": [
+      "Extend knowledge of nursing care regarding organizing, managing, and delivering care to individuals with complex health needs.",
+      "Analyze the roles and responsibilities of the nurse caring for individuals with complex health needs across the continua of care.",
+      "Demonstrate clinical judgement related to identifying critical changes in health, initiating care, and evaluating outcomes.",
+      "Demonstrate ethical and professional standards of nursing as they relate to personal and professional growth, nursing care, and functioning as an effective member of the healthcare team."
+    ],
+    "learning_outcomes": [
+      "Extend knowledge of nursing care regarding organizing, managing, and delivering care to individuals with complex health needs.",
+      "Analyze the roles and responsibilities of the nurse caring for individuals with complex health needs across the continua of care.",
+      "Demonstrate clinical judgement related to identifying critical changes in health, initiating care, and evaluating outcomes.",
+      "Demonstrate ethical and professional standards of nursing as they relate to personal and professional growth, nursing care, and functioning as an effective member of the healthcare team."
+    ],
+    "grading_information": {
+      "Challenges and Changes": "35%",
+      "Critical Incident Reflection": "25%",
+      "Safety and Compassion": "15%",
+      "Course Participation": "15%",
+      "Attendance": "10%",
+      "Passing Grade": "Minimum course grade of 75%"
+    },
+    "instructor_information": {
+      "name": "Larissa Brungot, DNP, RN, CNE",
+      "pronouns": "she/her/hers",
+      "contact": {
+        "email": "Canvas (preferred) or lalberson@nursing.utexas.edu",
+        "office": "5.102G",
+        "phone": {
+          "cell": "575-649-9554",
+          "office": "512-471-3249"
+        },
+        "office_hours": "Th 1000-1300, & by appointment (in-office or Zoom)"
+      }
+    },
+    "schedule": {
+      "semester": "Fall 2025",
+      "days": "Wednesdays",
+      "time": "1p - 4p",
+      "unique": "63190"
+    },
+    "assessment_methods": [
+      "Challenges and Changes",
+      "Critical Incident Reflection",
+      "Safety and Compassion",
+      "Course Participation",
+      "Attendance"
+    ],
+    "policies": {
+      "attendance": "Attendance will be taken every week via Canvas survey. Absences must be communicated in advance.",
+      "late_work": "5-point deduction each day up to 3 days; after 3 days, late assignments will receive a '0'.",
+      "make_up_assignment": "Must communicate with TA and instructor prior to missing class."
+    },
+    "any_other_relevant_fields": {
+      "communication": "Email is the official communication tool. Class-related topics should be sent via Canvas messages.",
+      "class_recordings": "Class will be recorded for educational purposes and should not be shared outside the class."
+    },
+    "source_file": "N2742025963190.pdf"
+  },
+  {
+    "course_code": "N256P",
+    "course_name": "Problems in Mental Health Nursing Practicum",
+    "textbooks": [
+      {
+        "title": "Varcarolis' foundations of psychiatric mental health nursing: A clinical approach",
+        "author": "Halter, M. J.",
+        "edition": "9th",
+        "year": 2022,
+        "publisher": "Saunders",
+        "ISBN": "978-0-323-69707-1"
+      },
+      {
+        "title": "Manual of psychiatric nursing care planning",
+        "author": "Varcarolis, E. M.",
+        "edition": "7th",
+        "year": 2023,
+        "publisher": "Saunders",
+        "ISBN": "978-0-323-79305-6"
+      },
+      {
+        "title": "Publication manual of the American Psychological Association",
+        "author": "American Psychological Association",
+        "edition": "7th",
+        "year": 2020
+      }
+    ],
+    "learning_objectives": [
+      "Apply principles of effective communication to interact with patients and the interdisciplinary healthcare team in psychiatric treatment settings.",
+      "Implement ethical/legal standards for nursing practice, including professional boundaries in the nurse/patient relationship.",
+      "Apply relevant theories for interacting with patients with diagnosable mental disorders.",
+      "Collaborate with the interdisciplinary healthcare team and the patients.",
+      "Conduct a thorough psychosocial assessment to identify priority patient needs.",
+      "Conduct mental status assessments using structured tools, observation, and interviewing skills.",
+      "Integrate relevant research findings and evidence-based practice to address priority patient needs.",
+      "Incorporate knowledge of psychopharmacology into the plan of nursing care.",
+      "Apply concepts and principles of health promotion and patient teaching."
+    ],
+    "learning_outcomes": [
+      "Demonstrate qualities of empathy and compassionate care.",
+      "Use a variety of communication modes appropriate for the context.",
+      "Obtain a complete and accurate history in a systematic manner.",
+      "Perform a clinically relevant, holistic health assessment.",
+      "Prioritize problems/health concerns.",
+      "Engage the individual and the team in plan development.",
+      "Implement individualized plan of care using established protocols.",
+      "Monitor the implementation of the plan of care.",
+      "Reassess the individual to evaluate health outcomes/goals."
+    ],
+    "grading_information": {
+      "passing_grade": 75,
+      "components": [
+        {
+          "name": "Psychopharmacology Quiz",
+          "weight": 5,
+          "passing_score": 80
+        },
+        {
+          "name": "SIM MAN ticket assignment",
+          "weight": 5
+        },
+        {
+          "name": "Comprehensive Nursing Care Plan",
+          "weight": 20
+        },
+        {
+          "name": "Teaching projects",
+          "weight": 15
+        },
+        {
+          "name": "12-Step Meeting verification",
+          "weight": 5
+        }
+      ]
+    },
+    "instructor_information": [
+      {
+        "name": "Morgan Ballantine, MSN, RN",
+        "role": "Course Facilitator",
+        "office": "NUR 5.172",
+        "phone": "254-230-8494",
+        "office_hours": "Wednesday 10am - noon, and 30 min. after dismissal of clinical",
+        "email": "morgan.ballantine@austin.utexas.edu"
+      },
+      {
+        "name": "Carol Dwyer DNP, APRN, FNP -BC",
+        "role": "Course Faculty",
+        "office": "NUR 5.148",
+        "phone": "512-471-7948",
+        "office_hours": "Thursday 9am - noon in person and virtual",
+        "email": "carol.dwyer@austin.utexas.edu"
+      }
+    ],
+    "schedule": {
+      "semester": "Fall 2025",
+      "placement": "First Semester Junior Year"
+    },
+    "assessment_methods": [
+      "Quizzes",
+      "Written care plan",
+      "Observations of practice or simulations",
+      "Presentations"
+    ],
+    "policies": {
+      "attendance": "Mandatory at all scheduled clinical sessions. More than two absences may result in a letter grade drop or failing grade."
+    },
+    "any_other_relevant_fields": {
+      "course_description": "Application of strategies for the care of individuals, groups and families experiencing mental-health problems.",
+      "student_responsibilities": "All written work must be turned in on specified due dates. Students are expected to keep a cumulative record of their written work."
+    },
+    "source_file": "N256P2025963080.pdf"
+  }
+]
